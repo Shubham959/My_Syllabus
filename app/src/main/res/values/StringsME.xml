@@ -1,0 +1,2327 @@
+<resources>
+    <string name="button4">Open Elective-II</string>
+    <string name="button5">Open Elective-III</string>
+    <string name="button6">Open Elective-IV</string>
+
+<!--    1-->
+    <string name="mesem3sub1">Machine Drawing</string>
+    <string name="mdrawing">\n\n\n
+
+
+        <b><font fgcolor='#F700FF'>Objective:\n\n\n</font></b>
+
+        <b>The student will acquire a knowledge of fastening arrangements such as welding, riveting the different styles of attachment for shaft. The student also is enabled to prepare the assembly of various machine or engine components and miscellaneous machine components.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 1:</font></b>\n\n\n (2 Lectures) Introduction to full section, half section, revolved-section off-set section.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 2: (3 Lectures) </font></b>\n\n\nNut Bolts, Riveted joints, Thread profiles, Screw jack.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module3: (3 Lectures)</font></b>\n\n\n Bushed bearing, pedestal, bearing, foot step bearing.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 4: (2 Lectures) </font></b>\n\n\n
+        Flanged coupling, flexible coupling, solid coupling.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module5: (2 Lectures) </font></b>\n\n\nEngine parts - Stuffing box, Connecting rod, Atomizer, spark plug, etc.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 6: (2 Lectures)</font></b>\n\n Eccentric.\n\n
+
+        <b><font fgcolor='#F700FF'>Module 7: (2 Lectures) </font></b>\nCross Head.\n\n
+
+        <b><font fgcolor='#F700FF'>Module 8: (2 Lectures)</font></b>\n\n Assembly of dissembled parts. disassembly of assembly parts.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+
+1. Dhawan, R.K., A Text Book of Machine Drawing, S. Chand &amp;
+
+Company, 1996.\n\n\n 2. Ostrowsky, O., Engineering Drawing with CAD Applications, ELBS, 1995.\n\n\n
+
+3. Engineering Drawing Practice for Schools and Colleges SP: 46-19\n\n\n
+
+4. Engineering Drawing by ND Bhatt\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+On successful completion of the course, the student will be able to,\n\n 1. Identify the national and international standards pertaining to machine drawing.\n\n
+
+2. Apply limits and tolerances to assemblies and choose appropriate fits.\n\n
+
+3. Recognize machining and surface finish symbols.\n\n
+
+4. Explain the functional and manufacturing datum.\n\n
+    </string>
+
+
+
+<!--    2-->
+
+    <string name="mesem3sub2">Mathematics III (PDE, Probability and Statics)</string>
+    <string name="meMath3">\n\n\n
+
+        <b>3L:1T:0P 4 credits</b>\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+        <b>(1) To introduce the solution methodologies for second order Partial Differential Equations with applications in engineering</b>\n\n\n
+        <b>(2) To provide an overview of probability and statistics to engineers</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+Definition of Partial Differential Equations, First order partial differential equations, solutions of first order linear PDEs;\n
+        Solution to homogenous and non-homogenous linear partial differential equations of second order by complimentary function and particular integral method. Second-order linear equations and their classification, Initial and boundary conditions, D Alemberts solution of the wave equation;\n
+        Duhamels principle for one dimensional wave equation. Heat diffusion and vibration problems, Separation of variables method to simple problems in Cartesian coordinates. The Laplacian in plane, cylindrical and spherical polar coordinates, solutions with Bessel functions and Legendre functions. \n
+        One dimensional diffusion equation and its solution by separation of variables. (14 hours)\n\n\n
+
+Probability spaces, conditional probability, independence; Discrete random variables, Independent random variables, the multinomial distribution,\n
+        Poisson approximation to the binomial distribution, infinite sequences of Bernoulli trials, sums of independent random variables; Expectation of Discrete Random Variables, Moments, Variance of a sum, Correlation coefficient, Chebyshev s Inequality.\n
+        Continuous random varibales and their properties, distribution functions and densities, normal, exponential and gamma densities.Bivariate distributions and their properties, distribution of sums and quotients, conditional densities, Bayes rule. (12 hours)\n
+
+Basic Statistics, Measures of Central tendency: Moments, skewness and Kurtosis - Probability distributions: Binomial, Poisson and Normal - evaluation of statistical parameters for these three distributions,\n
+        Correlation and regression - Rank correlation. Curve fitting by the method of least squares- fitting of straight lines, second degree parabolas and more general curves. Test of significance:\n
+        Large sample test for single proportion, difference of proportions, Tests for single mean, difference of means, and difference of standard deviations. Test for ratio of variances - Chisquare test for goodness of fit and independence of attributes.(12 hours)\n
+
+        <b><font fgcolor='#F700FF'> Course Outcomes:</font></b>\n\n\n
+
+Upon completion of this course, students will be able to solve field problems in engineering involving PDEs. \n
+        They can also formulate and solve problems involving random variables and apply statistical methods for analysing experimental data.\n
+
+        <b><font fgcolor='#F700FF'>Textbooks/References:</font></b>\n\n
+
+1. Erwin Kreyszig, Advanced Engineering Mathematics, 9th Edition, John Wiley and Sons, 2006.\n\n\n
+
+2. N.P. Bali and Manish Goyal, A text book of Engineering Mathematics, Laxmi Publications, Reprint, 2010.\n\n\n
+
+3. P. G. Hoel, S. C. Port and C. J. Stone, Introduction to Probability Theory, Universal Book Stall, 2003 (Reprint).\n\n\n
+
+4. S. Ross, A First Course in Probability, 6th Ed., Pearson Education India, 2002\n\n\n</string>
+
+
+
+<!--    3-->
+
+    <string name="mesem3sub3">Biology</string>
+    <string name="bio">\n\n\n
+
+
+<b>2 (one hour) lectures and one (one hour) tutorial per week. Only lecture hours are shown</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 1:Introduction (2 lectures) Purpose:</font></b>\n\n\n
+        To convey that Biology is as important a scientific discipline as Mathematics, Physics and Chemistry Bring out the fundamental differences between science and engineering by drawing a comparison between eye and camera, Bird flying and aircraft.\n\n
+        Mention the most exciting aspect of biology as an independent scientific discipline. Why we need to study biology? Discuss how biological observations of 18th Century that lead to major discoveries.\n\n
+        Examples from Brownian motion and the origin of thermodynamics by referring to the original observation of Robert Brown and Julius Mayor. These examples will highlight the fundamental importance of observations in any scientific inquiry.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 2:Classification (3 lectures) Purpose: </font></b>\n\n\n
+        To convey that classification per seis not what biology is all about.\n
+        The underlying criterion, such as morphological, biochemical or ecological be highlighted. Hierarchy of life forms at phenomenological level. A common thread weaves this hierarchy Classification. Discuss classification based on (a) cellularity-Unicellular or multicellular (b) ultrastructure- prokaryotes or eucaryotes.\n\n
+        energy and Carbon utilisation -Autotrophs, heterotrophs, lithotropes (d) Ammonia excretion - aminotelic, uricoteliec, ureotelic (e) Habitata-acquatic or terrestrial (e) Molecular taxonomy-three major kingdoms of life. A given organism can come under different category based on classification.\n\n
+        Model organisms for the study of biology come from different groups. E. coli, S. cerevisiae, D. Melanogaster, C. elegance, A. Thaliana, M. musculus\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 3:Genetics (4 lectures) Purpose: </font></b>\n\n\n
+        To convey that "Genetics is to biology what Newton's laws are to Physical Sciences" Mendel\'s laws, Concept of segregation and independent assortment.\n\n
+        Concept of allele. Gene mapping, Gene interaction, Epistasis. Meiosis and Mitosis be taught as a part of genetics. Emphasis to be give not to the mechanics of cell division nor the phases but how genetic material passes from parent to offspring.\n\n
+        Concepts of recessiveness and dominance. Concept of mapping of phenotype to genes. Discuss about the single gene disorders in humans. Discuss the concept of complementation using human genetics.\n\n
+
+        <b><font fgcolor='#F700FF'>  Module 4: Biomolecules (4 lectures) Purpose:</font></b>\n\n
+        To convey that all forms of life has the same building blocks and yet the manifestations are as diverse as one can imagine Molecules of life. \n\n
+        In this context discuss monomeric units and polymeric structures. Discuss about sugars, starch and cellulose. Amino acids and proteins. Nucleotides and DNA/RNA. Two carbon units and lipids.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 5: Enzymes (4 lectures) Purpose: </font></b>\n\n
+        To convey that without catalysis life would not have existed on earth.\n\n
+        Enzymology: How to monitor enzyme catalysed reactions. How does an enzyme catalyze reactions? Enzyme classification. Mechanism of enzyme action. \n\n
+        Discuss at least two examples. Enzyme kinetics and kinetic parameters. Why should we know these parameters to understand biology? RNA catalysis.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 6: Information Transfer (4 lectures) Purpose: </font></b>\n\n
+        The molecular basis of coding and decoding genetic information is universal Molecular basis of information transfer.\n\n
+        DNA as a genetic material. Hierarchy of DNA structure-from single stranded to double helix to nucleosomes. Concept of genetic code. \n\n
+        Universality and degeneracy of genetic code. Define gene in terms of complementation and recombination.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 7: Macromolecular analysis (5 lectures) Purpose: </font></b>\n\n
+        How to ana lyse biological processes at the reductionist level Proteins-structure and function.\n\n
+        Hierarch in protein structure. Primary secondary, tertiary and quaternary structure. Proteins as enzymes, transporters, receptors and structural elements.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 8: Metabolism (4 lectures) Purpose: </font></b>\n\n
+        The fundamental principles of energy transactions are the same in physical and biological world.\n\n Thermodynamics as applied to biological systems. Exothermic and endothermic versus endergonic and exergoinc reactions.\n\n Concept of Keqand its relation to standard free energy. Spontaneity. ATP as an energy currency. \nThis should include the breakdown of glucose to CO2 + H2O (Glycolysis and Krebs cycle) and synthesis of glucose from CO2 and H2O (Photosynthesis). \nEnergy yielding and energy consuming reactions. Concept of Energy charge\n\n
+
+        <b><font fgcolor='#F700FF'>Module 9: Microbiology (3 lectures)</font></b>
+        Concept of single celled organisms. Concept of species and strains. \nIdentification and classification of microorganisms. \nMicroscopy. Ecological aspects of single celled organisms.\n Sterilization and media compositions. Growth kinetics.\n\n\n
+
+        <b><font fgcolor='#F700FF'>References:</font></b>\n\n
+
+1. Biology: A global approach: Campbell, N. A.; Reece, J. B.; Urry, Lisa; Cain, M, L; Wasser man, S. A.; Minorsk y, P. V.; Jackson, R. B. Pearson Education Ltd\n\n\n
+
+2. Outlines of Biochemistry, Conn, E.E, Stumpf, P.K; Bruening, G; Doi, R.H. John Wiley and Sons\n\n\n
+
+3. Principles of Biochemistry (V Edition), By Nelson, D. L.; and\n
+
+Cox, M. M.W.H. Freeman and Company 4. Molecular Genetics (Second edition), Stent, G. S., and Calender, R. W.H. Freeman and company,\n Distributed by Satish
+
+Kumar Jain for CBS Publisher\n\n
+
+5. Microbiology, Prescott, L.M J.P. Harley and C.A. Klein 1995.\n
+
+2nd edition Wm, C. Brown Publishers\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n
+
+        <b>After studying the course, the student will be able to: </b>
+        Describe how biological observations of 18th Century that lead to major discoveries. \nConvey that classification per se is not what biology is all about but highlight the underlying criteria, such as morphological, biochemical and ecological Highlight the concepts of recessiveness and dominance during the passage of genetic material from parent to offspring \nConvey that all forms of life have the same building blocks and yet the manifestations are as diverse as one can imagine\n Classify enzymes and distinguish between different mechanisms of enzyme action.\n Identify DNA as a genetic material in the molecular basis of information transfer.\n Analyse biological processes at the reductionistic level Apply thermodynamic principles to biological systems.\n Identify and classify microorganisms.
+    </string>
+
+    <string name="mesem3sub4">Basic Electroniccs Engineering</string>
+    <string name="beee">\n\n\n
+        <b><font fgcolor='#F700FF'>3L:1T:0P 4 credits</font></b>\n\n
+
+        <b>Objectives:</b>\n
+
+To provide an overview of electronic device components to Mechanical engineering students\n\n
+
+<b>Contents</b>\n\n
+
+Semiconductor Devices and Applications: Introduction to P-N junction Diode and V-I characteristics, Half wave and Full-wave rectifiers, capacitor filter. \nZener diode and its characteristics, Zener diode as voltage regulator. \nRegulated power supply IC based on 78XX and 79XX series, \nIntroduction to BJT, its input-output and transfer characteristics, BJT as a single stage CE amplifier, frequency response and bandwidth.\n\n\n
+
+<b>Operational amplifier and its applications:</b>\n\n\n
+
+Introduction to operational amplifiers, Op-amp input modes and parameters, Op-amp in open loop configuration, \n op-amp with negative feedback, study of practical op-amp IC 741, inverting and non-inverting amplifier applications: summing and difference amplifier, unity gain buffer, comparator, integrator and differentiator.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Timing Circuits and Oscillators:</font></b>\n\n\n
+
+RC-timing circuits, IC 555 and its applications as astable and mono-stable multi-vibrators, positive feedback, Barkhausen s criteria for oscillation, \nR-C phase shift and Wein bridge oscillator.\n\n
+
+Digital Electronics Fundamentals :Difference between analog and digital signals, \nBoolean algebra, Basic and Universal Gates, Symbols, Truth tables, logic expressions, \nLogic simplification using Kmap, Logic ICs, half and full adder/subtractor, multiplexers, de-multiplexers, flip-flops, shift registers, counters, \nBlock diagram of microprocessor/ microcontroller and their applications.\n\n
+
+Electronic Communication Systems: The elements of communication system, IEEE frequency spectrum,\n Transmission media: wired and wireless, need of modulation, \nAM and FM modulation schemes, Mobile communication systems: cellular concept and block diagram of GSM system.\n\n
+
+        <b><font fgcolor='#F700FF'>   Text/Reference Books:</font></b>\n\n
+
+1. Floyd," Electronic Devices" Pearson Education 9th edition, 2012.\n
+
+2. R.P. Jain, "Modern Digital Electronics", Tata Mc Graw Hill, 3rd Edition, 2007.\n
+
+3. Frenzel, "Communication Electronics: Principles and Applications", Tata Mc Graw Hill, 3rd Edition, 2001\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n
+
+At the end of this course students will demonstrate the ability to\n
+
+1. Understand the principles of semiconductor devices and their applications.\n
+
+2. Design an application using Operational amplifier.\n
+
+3. Understand the working of timing circuits and oscillators.\n
+
+4. Understand logic gates, flip flop as a building block of digital systems.\n
+
+5. Learn the basics of Electronic communication system.\n
+    </string>
+
+    <string name="mesem3sub5">Engineering Mechanics</string>
+    <string name="EM">\n\n\n
+
+        <b><font fgcolor='#F700FF'>  3L:1T:0P 4 credits</font></b>\n\n
+
+The objective of this Course is to provide an introductory treatment of Engineering Mechanics to all the students of engineering, with a view to prepare a good foundation for taking up advanced courses in the area in the subsequent semesters. \n\nA working knowledge of statics with emphasis on force equilibrium and free body diagrams. \n\nProvides an understanding of the kinds of stress and deformation and how to determine them in a wide range of simple, practical structural problems, and an understanding of the mechanical behavior of materials under various load conditions.\n Lab should be taken concurrently
+
+        <b>What Will I Learn?</b>
+
+a) Confidently tackle equilibrium equations, moments and
+
+inertia problems\n\n
+
+b) Master calculator/computing basic skills to use to advantage in solving mechanics problems.\n\n
+
+c) Gain a firm foundation in Engineering Mechanics for furthering the career in Engineering\n\n
+
+        <b>Proposed Syllabus</b>
+
+        <b><font fgcolor='#F700FF'>Module 1:</font></b>
+
+Introduction to Engineering Mechanics covering, \nForce Systems Basic concepts, Particle equilibrium in 2-D and 3-D; \nRigid Body equilibrium; System of Forces, Coplanar Concurrent Forces, \nComponents in Space - Resultant- Moment of Forces and its Application; \nCouples and Resultant of Force System, Equilibrium of System of Forces,\n Free body diagrams, Equations of Equilibrium of Coplanar Systems and Spatial Systems; Static Indeterminacy
+
+        <b><font fgcolor='#F700FF'>Module 2:</font></b>\n\n\n
+
+Friction covering, Types of friction,\n Limiting friction, Laws of Friction, Static and Dynamic Friction;\n Motion of Bodies, wedge friction, screw jack and differential screw jack;\n\n
+
+        <b><font fgcolor='#F700FF'>Module 3:</font></b>\n\n\n
+
+Basic Structural Analysis covering, Equilibrium in three dimensions; \n\nMethod of Sections; Method of Joints; How to determine if a member is in tension or compression; Simple Trusses;\n Zero force members; Beams and types of beams; Frames and Machines;
+
+        <b><font fgcolor='#F700FF'> Module 4:</font></b>\n\n\n
+
+Centroid and Centre of Gravity covering, Centroid of simple figures from first principle,\n centroid of composite sections; Centre of Gravity and its implications;\n Area moment of inertia- Definition, Moment of inertia of plane sections from first principles,\n Theorems of moment of inertia, Moment of inertia of standard sections and composite sections;\n Mass moment inertia of circular plate, Cylinder, Cone, Sphere, Hook.\n\n
+
+        <b><font fgcolor='#F700FF'>Module 5:</font></b>
+
+Virtual Work and Energy Method- Virtual displacements,\n principle of virtual work for particle and ideal system of rigid bodies,\n degrees of freedom. Active force diagram, systems with friction, mechanical efficiency.\n Conservative forces and potential energy (elastic and gravitational), energy equation for equilibrium.\n Applications of energy method for equilibrium. Stability of equilibrium.\n\n
+
+        <b><font fgcolor='#F700FF'>Module 6:</font></b>\n\n
+
+Review of particle dynamics- Rectilinear motion;\n\n Plane curvilinear motion (rectangular, path, and polar coordinates). \n\n3-D curvilinear motion; Relative and constrained motion; Newton\'s 2nd law (rectangular, path, and polar coordinates). \nWork-kinetic energy, power, potential energy.Impulse-momentum (linear, angular); Impact (Direct and oblique).\n\n
+
+        <b><font fgcolor='#F700FF'>Module 7:</font></b>
+
+Introduction to Kinetics of Rigid Bodies covering, Basic terms, general principles in dynamics;\n Types of motion, Instantaneous centre of rotation in plane motion and simple problems; D\'Alembert\'s principle and its applications in plane motion and connected bodies;\n Work energy principle and its application in plane motion of connected bodies;\n Kinetics of rigid body rotation;
+
+
+        <b><font fgcolor='#F700FF'>Module 8:</font></b>\n\n
+
+Mechanical Vibrations covering, Basic terminology, free and forced vibrations, resonance and its effects;\n Degree of freedom; Derivation for frequency and amplitude of free vibrations without damping and single degree of freedom system, simple problems, types of pendulum, use of simple, compound and torsion pendulums; \nTutorials from the above modules covering,\n To find the various forces and angles including resultants in various parts of wall crane, roof truss, pipes, etc.;\n\n To verify the line of polygon on various forces;\n To find coefficient of friction between various materials on inclined plan;\n Free body diagrams various systems including block-pulley; \nTo verify the principle of moment in the disc apparatus; Helical block; \nTo draw a load efficiency curve for a screw jack
+
+        <b><font fgcolor='#F700FF'>Text/Reference Books:</font></b>\n\n\n
+
+1. Irving H. Shames (2006), Engineering Mechanics, 4th Edition, Prentice Hall\n\n\n
+
+2. F. P. Beer and E. R. Johnston (2011), Vector Mechanics for Engineers, Vol I-Statics, Vol II, - Dynamics, 9th Ed, Tata McGraw Hill\n\n\n
+
+3. R.C. Hibbler (2006), Engineering Mechanics: Principles of Statics and Dynamics, Pearson Press.\n\n\n
+
+4. Andy Ruina and Rudra Pratap (2011), Introduction to Statics and Dynamics, Oxford University Press\n\n\n
+
+5. Shanes and Rao (2006), Engineering Mechanics, Pearson Education,\n\n\n
+
+6. Hibler and Gupta (2010), Engineering Mechanics (Statics, Dynamics) by Pearson Education\n\n\n
+
+7. Reddy Vijaykumar K. and K. Suresh Kumar (2010), Singer\'s Engineering Mechanics\n\n\n
+
+8. Bansal R.K. (2010), A Text Book of Engineering Mechanics, Laxmi Publications\n\n\n
+
+9. Khurmi R.S. (2010), Engineering Mechanics, S. Chand and Co.\n\n\n
+
+10. Tayal A.K. (2010), Engineering Mechanics, Umesh Publications\n\n\n
+
+    </string>
+
+
+    <string name="mesem3sub6">Thermodynamics</string>
+    <string name="thermo_me">
+        \n\n\n <b><font fgcolor='#F700FF'> 3L:0T:1P 4 credits</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+~To learn about work and heat interactions, and balance of energy between system and its surroundings\n\n\n
+
+~To learn about application of I law to various energy conversion devices\n\n\n
+
+~To evaluate the changes in properties of substances in various processes\n\n\n
+
+~To understand the difference between high grade and low grade energies and II law
+
+limitations on energy conversion\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+Fundamentals - System and Control volume; Property, State and Process; Exact and Inexact differentials; \nWork-Thermodynamic definition of work; examples; Displacement work; Path dependence of displacement work and illustrations for simple processes; electrical, magnetic, gravitational, spring and shaft work. (5)\n\n
+
+Temperature, Definition of thermal equilibrium and Zeroth law;\n Temperature scales; Various Thermometers- Definition of heat; examples of heat/work interaction in systems- First Law for Cyclic and Non-cyclic processes; \nConcept of total energy E; \nDemonstration that E is a property; \nVarious modes of energy, Internal energy and Enthalpy. (5)\n\n
+
+Definition of Pure substance,\n Ideal Gases and ideal gas mixtures, Real gases and real gas mixtures,\n Compressibility charts- Properties of two phase systems - Const. temperature and Const. pressure heating of water;\n Definitions of saturated states;\n P-v-T surface; Use of steam tables and R134a tables;\n Saturation tables; Superheated tables; \nIdentification of states and determination of properties, Mollier\'s chart. (8)\n\n
+
+First Law for Flow Processes - Derivation of general energy equation for a control volume;\n Steady state steady flow processes including throttling; \nExamples of steady flow devices; \nUnsteady processes; examples of steady and unsteady I law applications for system and control volume. (5)\n\n
+ Second law - Definitions of direct and reverse heat engines;\n Definitions of thermal efficiency and COP;\n Kelvin-Planck and Clausius statements; \nDefinition of reversible process; Internal and external irreversibility; Carnot cycle;\n Absolute temperature scale. (5)\n\n
+
+Clausius inequality; Definition of entropy S;\n Demonstration that entropy S is a property;\n Evaluation of S for solids, liquids, ideal gases and ideal gas mixtures undergoing various processes; \nDetermination of s from steam tables- Principle of increase of entropy;\n Illustration of processes in Ts coordinates;\n Definition of Isentropic efficiency for compressors, turbines and nozzles- Irreversibility and Availability, Availability function for systems and Control volumes undergoing different processes, Lost work.\n Second law analysis for a control volume. Exergy balance equation and Exergy analysis.(8)\n\n
+
+Thermodynamic cycles - Basic Rankine cycle;\n Basic Brayton cycle;\n Basic vapor compression cycle and comparison with Carnot cycle. (4)\n\n\
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+1. After completing this course, the students will be able to apply energy balance to systems and control volumes, in situations involving heat and work interactions\n\n
+
+2. Students can evaluate changes in thermodynamic properties of substances\n\n
+
+3. The students will be able to evaluate the performance of energy conversion devices\n\n
+
+4. The students will be able to differentiate between high grade and low grade energies.\n\n
+
+        <b><font fgcolor='#F700FF'> Text Books:</font></b>\n\n\
+
+1. Sonntag, R. E, Borgnakke, C. and Van Wylen, G. J., 2003, 6th Edition, Fundamentals of Thermodynamics, John Wiley and Sons.\n\n\n
+
+2. Jones, J. B. and Duggan, R. E., 1996, Engineering Thermodynamics, Prentice-Hall of India\n\n\n
+
+3. Moran, M. J. and Shapiro, H. N., 1999, Fundamentals of Engineering Thermodynamics, John Wiley and Sons.\n\n\n
+
+4. Nag, P.K, 1995, Engineering Thermodynamics, Tata McGraw-Hill Publishing Co. Ltd.\n\n\n</string>
+
+
+
+<string name="mesem4sub1">Fluid Mechanics</string>
+<string name="FM">
+\n\n\n
+
+    <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+1. To learn about the application of mass and momentum conservation laws for fluid flows\n\n\n
+
+2. To understand the importance of dimensional analysis\n\n\n
+
+3. To obtain the velocity and pressure variations in various types of simple flows\n\n\n
+
+4. To analyze the flow in water pumps and turbines. Contents:\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 1 (8 lectures)</font></b>\n\n\n
+
+Definition of fluid, Units and dimensions, Newton\'s law of viscosity, Properties of fluids, mass, density, specific volume, specific gravity, viscosity, surface tension and capillarity, vapor pressure, compressibility and bulk modulus.Hydrostatics; fluid force on plane and curved surfaces, manometers, buoyancy, uniformly accelerated motion.\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 2 (4 lectures)</font></b>\n\n\n
+
+Kinematics of fluid flow: Generalized continuity equation, Irrotational motion and solution to Laplace equation. Concept of stream lines, Equipotential Lines, Flow Nets.\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 3 (6 lectures)</font></b>\n\n\n
+
+Dynamics of fluid flow: Control volume and control surface, application of continuity equation and momentum equation, Bernoulli\'s equation and its applications.\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 4 (4 lectures)</font></b>\n\n\n
+
+Concept of boundary layer, boundary layer thickness, Displacement thickness, momentum thickness, energy thickness.\n\n\n
+
+    <b><font fgcolor='#F700FF'>    Module: 5 (8 lectures)</font></b>\n\n\n
+
+Laminar viscous flow through circular conduits, Couette and Poisuielle flow, Turbulent flow through pipes, Darcy Weisbach equation, friction factor for smooth and rough pipes, Moody\'s diagram.\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 6 (6 lectures)</font></b>\n\n\n
+
+Need for dimensional analysis, methods of dimension analysis, Similitude and types of similitude, Dimensionless parameters, application of dimensionless parameters Model analysis.\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 7 (6 lectures) </font></b>\n\n\nForces on immersed bodies, concepts of separation, drag force, circulation and lift force.\n\n\n
+
+    <b><font fgcolor='#F700FF'> Text Books:</font></b>\n\n\n
+
+1. Frank M. White, Fluid Mechanics (Sixth Edition), Tata McGraw-Hill, New Delhi (2008).\n\n\n
+
+2. J. O. Wilkes, Fluid Mechanics for Chemical Engineers, Prentice Hall (1999).\n\n\n
+
+3. Som and Biswas; Fluid Mechanics and machinery; TMH\n\n\n
+
+4. Cengal; Fluid Mechanics; TMH\n\n\n
+
+5. Modi &amp; Seth; Fluid Mechanics; Standard Book House, Delhi\n\n\n
+
+    <b><font fgcolor='#F700FF'> Practical:</font></b>\n\n\n
+
+1. Determination of density &amp; viscosity of oil.\n\n\n
+
+2. To determine the meta-centric height of a floating body.\n\n\n
+
+3. Measurement of Coefficient of Discharge of given Orifice and Venturimeter\n\n\n
+
+4. To determine the coefficient of discharge of Notch (Vand Rectangular types)\n\n\n
+
+5. To determine the friction factor for the pipes.\n\n\n
+
+6. To verify the Bernoulli\'s Theorem.\n\n\n
+
+7. To find critical Reynolds number for a pipe flow.\n\n\n
+
+8. To determine the minor losses due to sudden enlargement, sudden contraction and bends.\n\n\n
+
+9. To show the velocity and pressure variation with radius in a free and forced vortex\n\n\n
+
+<b>Atleast 8 experiments should be performed from above list\n\n\n</b>
+
+    <b><font fgcolor='#F700FF'> Course Outcomes:</font></b>\n\n\n
+
+1. State the Newton\'s law of viscosity and explain the mechanics of fluids at rest and in motion by observing the fluid phenomena.\n\n\n
+
+2. Compute force of buoyancy on a partially or fully submerged body and analyze the stability of a floating body.\n\n\n
+
+3. Derive Euler\'s Equation of motion and deduce Bernoulli\'s equation.\n\n\n
+
+4. Examine energy losses in pipe transitions and sketch energy gradient lines.\n\n\n
+
+5. Evaluate pressure drop in pipe flow using Hagen-Poiseuille\'s equation.\n\n\n
+
+6. Distinguish the types of flows.\n\n\n </string>
+
+
+    <string name="mesem4sub2">Applied Thermodynamics</string>
+    <string name="Athermo">/n/n/n
+
+
+<b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+1. To learn about of I law for reacting systems and heating value of fuels\n\n\n
+
+2. To learn about gas and vapor cycles and their first law and second law efficiencies\n\n\n
+
+3. To understand about the properties of dry and wet air and the principles of psychometric\n\n\n
+
+4. To learn about gas dynamics of air flow and steam through nozzles\n\n\n
+
+5. To learn the about reciprocating compressors with and without intercooling\n\n\n
+
+6. To analyze the performance of steam turbines\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 1: (8 lectures)</font></b>\n\n\n
+
+Introduction to solid, liquid and gaseous fuels-Stoichiometry, exhaust gas analysis- First law analysisof combustion reactions. Heat calculations using enthalpy tables. Adiabatic flame temperature. Chemical equilibrium and equilibrium composition calculations using free energy.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 2: (10 lectures)</font></b>\n\n\n
+
+Thermodynamic cycles, Gas power cycles: Air standard Otto, Diesel and Dual Cycles. Air standard Brayton cycle, effect of reheat, regeneration and intercooling. Combined gas and vapor power cycles. Vapor compression refrigeration cycles cycle and comparison with Carnot cycle, refrigerants and their properties.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 3: (6 lectures)</font></b>\n\n\n
+
+Vapor power cycles: Basic Rankine cycle, Rankine cycle with superheat, reheat and regeneration, exergy analysis. Super- critical and ultra-super-critical Rankine cycle.\n\n\n
+
+        <b><font fgcolor='#F700FF'> Module 4: (8 lectures)</font></b>\n\n\n
+
+Basics of compressible flow. Stagnation properties, Isentropic flow of a perfect gas through a nozzle, choked flow, subsonic and supersonic flows-normal shocks- use of ideal gas tables for isentropic flow and normal shock flow- Flow of steam and refrigerant through nozzle, super saturationcompressible flow in diffusers, efficiency of nozzle and diffuser.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 5: (5 lectures)</font></b>\n\n\n
+
+Analysis of steam turbines, velocity and pressure compounding of steam turbines.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 6: (5 lectures)</font></b>\n\n\n
+
+Reciprocating compressors, staging of reciprocating compressors, optimal stage pressure ratio, effect of intercooling, minimum work for multistage reciprocating compressors.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Sonntag, R. E, Borgnakke, C. and Van Wylen, G. J., 2003, 6th Edition, Fundamentals of Thermodynamics, John Wiley andSons.\n\n\n
+
+2. Jones, J. B. and Duggan, R. E., 1996, Engineering Thermodynamics, Prentice-Hall of India\n\n\n
+
+3. Moran, M. J. and Shapiro, H. N., 1999, Fundamentals of Engineering Thermodynamics, John Wiley andSons.\n\n\n
+
+4. Nag, P. K, 1995, Engineering Thermodynamics, Tata McGraw-Hill Publishing Co. Ltd\n\n\n
+
+        <b><font fgcolor='#F700FF'>Outcomes:</font></b>\n\n\n
+
+1. After completing this course, the students will get a good understanding of various practical power cycles and heat pump cycles.\n\n\n
+
+2. They will be able to analyze energy conversion in various thermal devices such as combustors, air coolers, nozzles, diffusers, steam turbines and reciprocating compressors.3. They will be able to understand phenomena occurring in high speed compressible flows.\n\n\n</string>
+
+
+    <string name="mesem4sub3">Strength Of Materials</string>
+    <string name="som">\n\n\n
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+1. To understand the nature of stresses developed in simple geometries such as bars, cantilevers, beams, shafts, cylinders and spheres for various types of simple loads.\n\n\n
+
+2. To calculate the elastic deformation occurring in various simple geometries for different types of loading.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:1 (8 lectures)</font></b>\n\n\n
+
+Deformation in solids- Hooke\'s law, stress and strain- tension, compression and shear stresseselastic constants and their relations-volumetric, linear and shear strains-principal stresses and principal planes-Mohr\'s circle, theories of failure,\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module :2 (8 lectures)</font></b>\n\n\n
+
+Beams and types transverse loading on beams-shear force and bend moment diagrams-Types of beam supports, simply supported and over-hanging beams, cantilevers. Theory of bending of beams, bending stress distribution and neutral axis, shear stress distribution, point and distributed loads.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module :3 (8 lectures)</font></b>\n\n\n
+
+Moment of inertia about an axis and polar moment of inertia, deflection of a beam using double integration method, computation of slopes and deflection in beams, Maxwell\'s reciprocal theorems.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module :4 (8 lectures)</font></b>\n\n\n
+
+Torsion, stresses and deformation in circular and hollow shafts, stepped shafts, deflection of shafts fixed at both ends, stresses and deflection of helical springs.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module :5 (8 lectures)</font></b>\n\n\n
+
+Axial and hoop stresses in cylinders subjected to internal pressure, deformation of thick and thin cylinders, deformation in spherical shells subjected to internal pressure.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Egor P. Popov, Engineering Mechanics of Solids, Prentice Hall of India, New Delhi,2001.\n\n\n
+
+2. R. Subramanian, Strength of Materials, Oxford University Press, 2007.\n\n\n
+
+3. Ferdinand P. Been, Russel Johnson Jr. and John J. Dewole, Mechanics of Materials, Tata GrawHill Publishing Co. Ltd., New Delhi2005.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+1. Hooke\'s Law\n\n
+
+2. Hardness Test: Rockwell, Brinell, Vicker\n\n
+
+3. Izod &amp; Charpy Impact Test\n\n
+
+4. Bending Test\n\n
+
+5. Torsion Test\n\n
+
+6. Shear test\n\n
+
+7. Compressive strength test\n\n
+
+8. Fatigue Test\n\n
+
+9. Verification of Maxwell\'s reciprocal theorem\n\n
+
+10. Continuous beam deflection test\n\n
+
+11. Strain Measurement\n\n
+
+        <b>*Atleast 8 experiments should be performed from above list\n\n\n</b>
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+1. After completing this course, the students should be able to recognize various types loads applied on machine components of simple geometry and understand the nature of internal stresses that will develop within the components\n\n\n
+
+2. The students will be able to evaluate the strains and deformation that will result due to the elastic stresses developed within the materials for simple types of loading\n\n\n
+    </string>
+
+    <string name="mesem4sub4">Engineering Materials</string>
+    <string name="meEM">\n\n\n
+
+
+<b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+1. Understanding of the correlation between the internal structure of materials, their mechanical properties and various methods to quantify their mechanical integrity and failure criteria.\n\n\n
+
+2. To provide a detailed interpretation of equilibrium phase diagrams and Learning about different phases and heat treatment methods to tailor the properties of Fe-C alloys. Contents\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:1 (6 lectures)</font></b>\n\n\n
+
+Crystal Structure: Unit cells, Metallic crystal structures, Ceramics. Imperfection in solids: Point, line, interfacial and volume defects; dislocation strengthening mechanisms and slip systems, critically resolved shear stress.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:2 (8 lectures)</font></b>\n\n\n
+
+Alloys, substitutional and interstitial solid solutions-Phase diagrams: Interpretation of binary phase diagrams and microstructure development; eutectic, peritectic, peritectoid and monotectic reactions. Iron Iron-carbide phase diagram and microstrctural aspects of ledeburite, austenite, ferrite and cementite, cast iron.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 (10 lectures)</font></b>\n\n\n
+
+Mechanical Property measurement: Tensile, compression and torsion tests; Young\'s modulus, relations between true and engineering stress-strain curves, generalized Hooke\'s law, yielding and yield strength, ductility, resilience, toughness and elastic recovery: Hardness: Rockwell, Brinell and Vickers and their relation to strength, Introduction to non-destructive testing (NDT),\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4 (10 lectures)</font></b>\n\n\n
+
+Heat treatment of Steel: Annealing, tempering, normalising and spheroidising, isothermal transformation diagrams for Fe-C alloys and microstructure development. Continuous cooling curves, T-T-T diagram and interpretation of final microstructures and properties-austempering, martempering, case hardening, carburizing, nitriding, cyaniding, carbo-nitriding, flame and induction hardening, vacuum and plasma hardening.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5 (8 lectures)</font></b>\n\n\n
+        Alloying of steel, properties of stainless steel and tool steels, maraging steels- cast irons; grey, white, malleable and spheroidal cast irons-copper and copper alloys; brass, bronze and cupronickel; Aluminium and Al-Cu - Mg alloys-Nickel based superalloys and Titanium alloys.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:\n\n\n</font></b>
+
+1. W. D. Callister, 2006, "Materials Science and Engineering-An Introduction", 6th Edition, Wiley India.\n\n\n
+
+2. Kenneth G. Budinski and Michael K. Budinski, "Engineering Materials", Prentice Hall of India Private Limited, 4th Indian Reprint, 2002.\n\n\n
+
+3. V. Raghavan, "Material Science and Engineering', Prentice Hall of India Private Limited, 1999.\n\n\n
+
+4. U. C. Jindal, "Engineering Materials and Metallurgy", Pearson, 2011.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+1. Student will be able to identify crystal structures for various materials and understand the defects in such structures\n\n\n
+
+2. Understand how to tailor material properties of ferrous and non-ferrous alloys\n\n\n
+
+3. How to quantify mechanical integrity and failure in materials\n\n\n
+
+    </string>
+
+    <string name="mesem4sub5">Instrumentation And Control </string>
+    <string name="IaC">\n\n\n
+
+
+        <b><font fgcolor='#F700FF'>  Objectives:</font></b>\n\n\n
+
+1. To provide a basic knowledge about measurement systems and their components\n\n\n
+
+2. To learn about various sensors used for measurement of mechanical quantities\n\n\n
+
+3. To learn about system stability and control\n\n\n
+
+4. To integrate the measurement systems with the process for process monitoring and control\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1 (10 lectures)</font></b>\n\n\n
+
+Measurement systems and performance-configuration of a measuring system, Methods for correction for interfering and modifying inputs-accuracy, range, resolution, error sources, precision, error sensitivity etc. Classification of errors and statistical analysis of experimental data.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2 (8 lectures)</font></b>\n\n\n
+
+Instrumentation system elements-sensors for common engineering measurements. Transducers based on variable resistance, variable induction, variable capacitance and piezo-electric effects, Displacement transducer.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 (6 lectures)</font></b>\n\n\n
+
+Signal processing and conditioning; correction elements- actuators: pneumatic, hydraulic, electric.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module :4 (10 lectures)</font></b>\n\n\n
+
+Control systems - basic elements, open/closed loop, design of block diagram; control method - PPI, PID, when to choose what, tuning of controllers.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module :5 (6 lectures)</font></b>\n\n\n
+
+System models, transfer function and system response, frequency response; Nyquist diagrams and their use. Practical group based project utilizing above concepts.\n\n\n
+
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Instrumentation and control systems by W. Bolton, 2nd edition, Newnes, 2000\n\n\n
+
+2. Thomas G. Beckwith, Roy D. Marangoni, John H. Lienhard V, Mechanical Measurements (6th Edition) 6th Edition, Pearson Education India, 2007\n\n\n
+
+3. Gregory K. McMillan, Process/Industrial Instruments and Controls Handbook, Fifth Edition, McGraw-Hill: New York, 1999.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+Upon completion of this course, the students will be able to understand the measurement of various quantities using instruments, their accuracy &amp; range, and the techniques for controlling devices automatically.\n\n\n
+    </string>
+
+    <string name="mesem5sub1">Heat Transfer</string>
+    <string name="HT">\n\n\n
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+1. The aim of the course is to build a solid foundation in heat transfer exposing students to the three basic modes namely conduction, convection and radiation.\n\n\n
+
+2. Rigorous treatment of governing equations and solution procedures for the three modes will be provided, along with solution of practical problems using empirical correlations.\n\n\n
+
+3. The course will also briefly cover boiling and condensation heat transfer, and the analysis and design of heat exchangers.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1 (12 lectures)</font></b>\n\n\n
+
+Introduction to three modes of heat transfer, Derivation of heat balance equation- Steady one dimensional solution for conduction heat transfer in Cartesian, cylindrical and spherical geometry, concept of conduction and film resistances, critical insulation thickness, lumped
+
+system approximation and Biot number, heat transfer through pin fins- Two dimensional conduction solutions for both steady and unsteady heat transfer-approximate solution to unsteady conduction heat transfer by the use of Heissler charts.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:2 (8 lectures)</font></b>\n\n\n
+
+Heat convection, basic equations, boundary layers- Forced convection, external and internal flows-Natural convective heat transfer- Dimensionless parameters for forced and free convection heat transfer-Correlations for forced and free convection-Approximate solutions to laminar boundary layer equations (momentum and energy) for both internal and external flow-Estimating heat transfer rates in laminar and turbulent flow situations using appropriate correlations for free and forced convection.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 (8 lectures)</font></b>\n\n\n
+
+Interaction of radiation with materials, definitions of radiative properties, Stefan Boltzmann\'s law, black and gray body radiation, Calculation of radiation heat transfer between surfaces using radiative properties, view factors and the radiosity method.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4 (6 lectures)\n\n\n</font></b>
+
+Types of heat exchangers, Analysis and design of heat exchangers using bothLMTD and e-NTU methods.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5 (3 lectures)</font></b>\n\n\n
+
+Boiling and Condensation heat transfer, Pool boiling curve.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 6 (3 lectures)</font></b>\n\n\n
+
+Introduction mass transfer, Similarity between heat and mass transfer\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Bejan, Heat Transfer John Wiley, 1993\n\n\n
+
+2. J.P.Holman, Heat Transfer, Eighth Edition, McGraw Hill, 1997.\n\n\n
+
+3. F.P.Incropera, and D.P. Dewitt, Fundamentals of Heat and Mass Transfer, John Wiley, Sixth Edition, 2007.\n\n\n
+
+4. MassoudKaviany, Principles of Heat Transfer, John Wiley, 2002\n\n\n
+
+5. Yunus A Cengel, Heat Transfer: A Practical Approach, McGraw Hill, 2002\n\n\n
+
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b> \n\n\n
+
+1. Determination of Thermal Conductivity of a Metal Rod.\n\n\n
+
+2. Determination of Overall Heat Transfer Coefficient of a Composite wall.\n\n\n
+
+3. To find the effectiveness of a pin fin in a rectangular duct natural convective condition and plot temperature distribution along its length.\n\n\n
+
+4. To find the effectiveness of a pin fin in a rectangular duct under forced convective and plot temperature distribution along its length\n\n\n
+
+5. Determination of Heat Transfer Coefficient in a free Convection on a vertical tube.\n\n\n
+
+6. Determination of Heat Transfer Coefficient in a Forced Convention Flow through a Pipe.\n\n\n
+
+7. Determination of Emissivity of a Surface.\n\n\n
+
+8. Determination of Stefan Boltzmann\'s Constant.\n\n\n
+
+9. Determination of LMDT and Effectiveness in a Parallel Flow and Counter Flow Heat Exchangers.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+1. After completing the course, the students will be able to formulate and analyze a heat transfer problem involving any of the three modes of heat transfer\n\n\n
+
+2. The students will be able to obtain exact solutions for the temperature variation using analytical methods where possible or employ approximate methods or empirical correlations to evaluate the rate of heat transfer\n\n\n
+
+3. The students will be able to design devices such as heat exchangers and also estimate the insulation needed to reduce heat losses where necessary.\n\n\n
+    </string>
+
+    <string name="mesem5sub2">Fluid Machinery</string>
+    <string name="meFM">\n\n\n
+
+        <b><font fgcolor='#F700FF'>  Objectives:</font></b>\n\n\n
+
+The objective is to present the mathematical and physical principles in understanding the linear continuum behavior of solids.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction Classification of fluid machinery. (Lectures: 2)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2\n\n\n</font></b>
+
+Dynamic action of fluid jet - Impact of fluid jet on fixed and moving flat places, impact of jet on fixed and moving curved vanes, flow over radial vanes, jet propulsions. (Lectures: 4)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Euler\'s fundamental equation, degree of reaction. (Lectures:2)
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Hydraulic turbines, introduction, classification, impulse turbine, construction details, velocity triangles, power and efficiency calculations, reaction turbines; constructional details, working principle, velocity triangles, power and efficiency calculations, draft tube, cavitation, governing. (Lectures: 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Principle of similarity in fluid machinery; unit and specific quantities, testing models and selection of hydraulic turbines. (Lectures: 3)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 6</font></b>
+
+Positive displacement pumps: Reciprocating pump; working principle, classification, slip, indicator diagram, effect of friction and acceleration, theory of air vessel, performance characteristics gas gear oil pump and screw pump. (Lectures: 4)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 7</font></b>\n\n\n
+
+Rotodynamic pumps: Introduction, classification, centrifugal pump; main components, working principle velocity triangle, effect of shape of blade specific speed, heats, power and efficiency, calculations minimum steering speed, multi stage pumps, performance characteristic, comparison with reciprocating pump. (Lectures: 7)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+Upon completion of this course, students will be able understand the deformation behavior of solids under different types of loading and obtain mathematical solutions for simple geometries.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. G. T. Mase, R. E. Smelser and G. E. Mase, Continuum Mechanics for Engineers, Third Edition, CRC Press, 2004.\n\n\n
+
+2. Y. C. Fung, Foundations of Solid Mechanics, Prentice Hall International, 1965.\n\n\n
+
+3. Lawrence. E. Malvern, Introduction to Mechanics of a Continuous Medium, Prentice Hall international, 1969.\n\n\n
+
+4. Hydrantic Machine by Jagdish Lal\n\n\n
+
+5. Hydraulics &amp; Hydraulic Machines by Vasandari\n\n\n
+
+6. Hydrantic Machine by RD Purohit\n\n\n
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+1. Performance on hydraulic turbines:\n\n\n
+
+a. Pelton wheel\n\n\n
+
+b. Francis turbine\n\n\n
+
+c. Kaplan turbine.\n\n\n
+
+2. Performance on hydraulic pumps:\n\n\n
+
+a. Single stage and multi stage centrifugal pumps\n\n\n
+
+b. Reciprocating pump.\n\n\n
+
+3. Performance test of a two stage reciprocating air compressor\n\n\n
+
+
+ 4. Performance test on an air blower\n\n\n
+
+OPTIONAL\n\n\n
+
+1. Visit to hydraulic power station/Municipal water pump house and case studies.\n\n\n
+2. Demonstration of cut section models of hydraulic turbines and pumps.\n\n\n
+    </string>
+
+
+    <string name="mesem5sub3">Manufacturing Processes</string>
+    <string name="meMp">
+        \n\n\n
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+To motivate and challenge students to understand and develop an appreciation of the processes in correlation with material properties which change the shape, size and form of the raw materials into the desirable product by conventional or unconventional manufacturing methods\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:\n\n\n</font></b>
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Conventional Manufacturing processes: Casting and Moulding: Metal casting processes and equipment, Heat transfer and solidification, shrinkage, riser design, casting defects and residual stresses. (Lectures6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Introduction to bulk and sheet metal forming, plastic deformation and yield criteria; fundamentals of hot and cold working processes; load estimation for bulk forming (forging, rolling, extrusion, drawing) and sheet forming (shearing, deep drawing, bending) principles of powder metallurgy. (Lectures6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Metal cutting: Single and multi-point cutting, Orthogonal cutting, various force components: Chip formation, Tool wear and tool life, Surface finish and integrity, Machinability, Cutting tool materials, Cutting fluids, Coating; Turning, Drilling, Milling and finishing processes, Introduction to CNC machining. (Lectures8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Joining/fastening processes: Physics of welding, brazing and soldering, design considerations in welding, Solid and liquid state joining processes; Adhesive bonding.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Additive manufacturing: Rapid prototyping and rapid tooling (Lectures5)</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'> Module:5</font></b>\n\n\n
+
+Machine Tools:\n\n\n
+
+(a) Lathe: Principle, types, operations, turret/capstan, semi/ automatic, Tool layout.\n\n\n
+
+(b) Shaper, slotted, planer, operation, drive.\n\n\n
+
+© Milling, Milling cutter, up &amp; down milling, dividing head indexing, Max chip thickness,
+
+power required.\n\n\n
+
+(d) Drilling and boring, reaming tools, Geometry of twist drill, Grinding, Grinding wheel,
+
+Abrasive, cutting action, grinding wheel specification, Grinding wheel wear, alterations,
+
+wear, fracture wear, dressing and trimming. Max chip thickness and guest criteria, Flat
+
+and cylindrical grinding, Centerless grinding, Super finishing, Honing lapping, Polishing
+
+(Lectures15)\n\n\n
+
+Course Outcomes:\n\n\n
+
+Upon completion of this course, students will be able to understand the different conventional and unconventional. manufacturing methods employed for making different products\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Kalpakjian and Schmid, Manufacturing processes for engineering materials (5th Edition)-Pearson India, 2014\n\n\n
+
+2. Mikell P. Groover, Fundamentals of Modern Manufacturing: Materials, Processes, and Systems\n\n\n
+
+3. Degarmo, Black &amp;Kohser, Materials and Processes in Manufacturing\n\n\n
+
+
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+Minimum of 10 Experiment need to be performed\n\n\n
+
+1. Metal Casting Lab:\n\n\n
+
+1. Pattern Design and making - for one casting drawing.\n\n\n
+
+2. Sand properties testing (strengths and permeability)\n\n\n
+
+3. Moulding, Melting and Casting\n\n\n
+
+II. Welding Lab:\n\n\n
+
+1. ARC Welding Lap &amp; Butt Joint\n\n\n
+
+2. Spot Welding\n\n\n
+
+3. Gas Welding\n\n\n
+
+III. Mechanical Press Working:\n\n\n
+
+1. Blanking &amp; Piercing operation and study of simple, compound and progressivepress tool.\n\n\n
+
+2. Bending and other operations\n\n\n
+
+        IV. Machining Lab:\n\n\n
+
+1. Cutting operation (Orthogonal &amp; Oblique) on lathe machine\n\n\n
+
+2. Bolt making on lathe machine\n\n\n
+
+3. Facing, plain turning and step turning knurling\n\n\n
+
+4. Boring and internal thread cutting.\n\n\n
+
+5. Finishing of a surface on surface -grinding machine\n\n\n
+
+6. Gear cutting on milling machine (Spur Gear).\n\n\n
+
+7. Machining a block on shaper machine.\n\n\n
+
+8. Drilling holes on drilling machine\n\n\n
+    </string>
+
+
+    <string name="mesem5sub4">Kinematics Of Machine</string>
+    <string name="KOM_me">\n\n\n
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+1. To understand the kinematics and rigid-body dynamics of kinematically driven machine components\n\n\n
+
+2. To understand the motion of linked mechanisms in terms of the displacement, velocity and acceleration at any point in a rigid link\n\n\n
+
+3. To be able to design some linkage mechanisms and cam systems to generate specified output motion\n\n\n
+
+4. To understand the kinematics of gear trains\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:\n\n\n</font></b>
+
+        <b><font fgcolor='#F700FF'>Module 1</font></b>\n\n\n
+
+Introduction: Classification of mechanisms: -Basic kinematic concepts and Definitions-Degree of freedom, mobility-Grashof\'s law, Kinematic inversions of four bar chain and slider crank chains. (Lectures 5)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 2</font></b>\n\n\n
+
+Kinematic analysis of plane mechanism: Displacement, velocity and acceleration analysis of simple mechanisms, graphical velocity analysis using instantaneous centers, kinematic analysis of simple mechanisms-slider crank mechanism dynamics- Coriolis component of acceleration. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 3</font></b>\n\n\n
+
+Friction devices: Belt drive, Clutch, Shoe brakes, Band and block brakes. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module 4</font></b>\n\n\n
+
+Gear: gear terminology, Involute and Cycloidal gear profiles, gear parameters, fundamental law of gearing and conjugate action, spur gear contact ratio and interference/undercutting.\n\n\n
+
+Gear Train: Analysis of simple, compound, reverted and epicyclic gear train with problems. (Lectures 10)\n\n\n
+    </string>
+
+    <string name="mesem5sub5">Constitution Of INDIA/Essence Of INDIAN Knowledge Tradition </string>
+    <string name="consitution">
+
+    </string>
+
+    <string name="mesem5sub6">Summer Entrepreneurship-II</string>
+    <string name="sum_me">
+
+    </string>
+
+    <string name="mesem5sub7">OPEN ELECTIVE-I (MOOCS/ SWAYAM/NPTEL COURSES - 2)</string>
+    <string name="open">
+
+    </string>
+
+    <string name="mesem5sub8">GRADUATE EMPLOYABILITY SKILLS AND COMPETITIVE COURSES (GATE, IES, ETC.)</string>
+    <string name="grate">
+
+    </string>
+
+
+    <string name="mesem6sub1">Dynamics Of Machinery</string>
+    <string name="DOM">\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font>
+        </b>\n\n\n
+
+1. To equip the student with fundamental knowledge of dynamics of machines so that student can appreciate problems of dynamic force balance, transmissibility of forces, isolation of systems, vibrations.\n\n\n
+
+2. Develop knowledge of analytical and graphical methods for calculating balancing of reciprocating masses.\n\n\n
+
+3. Develop understanding of vibrations and its significance on engineering design.\n\n\n
+
+4. Develop understanding of dynamic balancing, flywheel analysis, gyroscopic forces and moments. Contents:\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1\n\n\n</font></b>
+
+Force analysis of mechanism: Dynamics of plane motion of a rigid body, dynamically equivalent two mass system, correction torque, forced in mechanism and machines. (Lectures 3)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Turning moment diagram: Fluctuations of crankshaft speed and energy in a direct acting engine mechanism, flywheels. (Lectures 5)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Cams: Classification of cams and followers, types of follower and retardation, cam profile and generation of concentric and offset radial cam profiles by graphical method. Cams with specified contours tangent cam with roller follower, circular arc cam with flat follower. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Analysis of gyroscopic motion: Principle of gyroscope, gyroscopic couple and gyroscopic reaction couple, Gyroscopic effects on the movement of ships, aeroplanes, two wheeled and four wheeled vehicles, gyrostabilizers. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font>
+        </b>\n\n\n
+
+Effects of inertia of reciprocating masses on engine frame: Unbalanced primary and secondary forces and couples, balancing of primary and secondary forces, partial balancing of locomotives, balancing of multicylinder in line and radial engines, direct and reverse cranks methods for balancing of radial engines. (Lecture 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 6</font></b>\n\n\n
+
+Mechanical vibrations: Basic concepts degree of freedom, types of damping and viscous damping; natural free, damped free and damped forced vibrations of a single degree of freedom spring mass system, reciprocating and rotating unbalance, vibration isolation and transmissibility, whirling of shaft, elementary treatment of two degree of freedom systems torsional vibrations of single rotor and two rotor systems, transverse vibration of simply supported beam energy method, Rayleigh\'s and Dankerley method. (Lecture 12)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course outcomes:</font></b>\n\n\n
+
+Upon successful completion of this course the student should be able to:\n\n\n
+
+1. Analyze stabilization of sea vehicles, aircraft and automobile vehicles.\n\n\n
+
+2. Compute frictional losses, torque transmission of mechanical systems.\n\n\n
+
+3. Analyze dynamic force analysis of slider crank mechanism and design of flywheel.\n\n\n
+
+4. Understand how to determine the natural frequencies of continuous systems starting from the general equation of displacement.\n\n\n
+
+5. Understand balancing of reciprocating and rotary masses.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text/References Books:</font></b>\n\n\n
+
+1. Theory of Machines/S.S Ratan/ Mc. Graw Hill Publ.\n\n\n
+
+2. Mechanism and machine theory by Ashok G. Ambedkar, PHI Publications.\n\n\n
+
+3. Mechanism and Machine Theory / JS Rao and RV Dukkipati/New Age.\n\n\n
+
+4. Theory of Machines / Shiegly / MGH\n\n\n
+
+5. Theory of Machines / Thomas Bevan / CBS Publishers\n\n\n
+
+6. Theory of machines/Khurmi / S.Chand.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Laboratory: Minimum of 10 Experiment need to be performed</font></b>\n\n\n
+
+1. To study various types of Links, Pairs, Chain and Mechanism\n\n\n
+
+2. To study inversion of Four Bar Mechanism\n\n\n
+
+3. To study velocity diagram for Slider Crank Mechanism.\n\n\n
+
+4. To study various kinds of belts drives.\n\n\n
+
+5. To study and find coefficient of friction between belt and pulley.\n\n\n
+
+6. To study various types of Cam and Follower arrangement.\n\n\n
+
+7. To plot follower displacement Vs cam rotation graph for various cam follower arrangement.\n\n\n
+
+8. To study Different types of Gears.\n\n\n
+
+9. To study Different types of Gear Trains.\n\n\n
+
+11. To Perform Experiment on Watt, Porter, Proell and Hartnell Governors and prepare Performance Characteristic Curves also analyze Stability &amp; Sensitivity\n\n\n
+
+12. To study gyroscopic effects through models.\n\n\n
+
+13. To determine gyroscopic couple on Motorized Gyroscope.\n\n\n
+
+14. To perform the experiment of Balancing of rotating parts and find the unbalanced couple and forces.\n\n\n
+
+        15. To study Dynamically Equivalent System.\n\n\n
+
+16. Determine the moment of inertial of connecting rod by compound pendulum method and trifler suspension pendulum.\n\n\n
+
+17. To study the various types of dynamometers. 18. To find out critical speed experimentally and to compare the Whirling Speed of a shaft with theoretical values\n\n\n
+    </string>
+
+
+    <string name="mesem6sub2">Manufacturing Technology</string>
+    <string name="MT">\n\n\n
+        <b><font fgcolor='#F700FF'>     Objectives:</font></b>\n\n\n
+
+(1) To provide knowledge on machines and related tools for manufacturing various components.\n\n\n
+
+(ii) To understand the relationship between process and system in manufacturing domain.\n\n\n
+
+(iii) To identify the techniques for the quality assurance of the products and the optimality of the process in terms of resources and time management. Course Contents:\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:1 </font></b>
+        Tooling for conventional and non-conventional machining processes: Mould and die design, Press tools, Cutting tools; Holding tools: Jigs and fixtures, principles, applications and design; press tools - configuration, design of die and punch; principles of forging die design. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:2 </font></b>\n\n\n
+        Metrology: Dimensions, forms and surface
+
+measurements, Limits, fits and tolerances; linear and angular measurements; comparators; gauge design; interferometry; Metrology in tool wear and part quality including surface integrity, alignment and testing methods; tolerance analysis in manufacturing and assembly. Process metrology for emerging machining processes such as microscale machining, Inspection and workpiece quality. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:3</font></b>\n\n\n Assembly practices: Manufacturing and assembly, process planning, selective assembly, Material handling and devices. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:4</font></b>\n\n\n Unconventional Machining Processes: Abrasive Jet Machining, Water Jet Machining, Abrasive Water Jet Machining, Ultrasonic Machining, principles and process parameters. Electrical Discharge Machining, principle and processes parameters, MRR, surface finish, tool wear, Dielectric, power and control circuits, wire EDM; Electro-chemical machining (ECM), etchant &amp; maskant, process parameters, MRR and surface finish. Laser Beam Machining (LBM), Plasma Arc Machining (PAM) and Electron Beam Machining (Lectures 14) Course Outcomes: Upon completion of this course, students will be able to the tooling needed for manufacturing, the dimensional accuracy and tolerances of products, assembly of different components and the application of optimization methods in manufacturing.\n\n\n
+
+        <b><font fgcolor='#F700FF'> Text Books:</font></b>\n\n\n
+
+1. Kalpakjian and Schmid, Manufacturing processes for engineering materials (5th Edition)- PearsonIndia, 2014..\n\n\n
+
+2. Taha H. A., Operations Research, 6th Edition, Prentice Hall of India, 2003.\n\n\n
+
+3. Shenoy G.V. and Shrivastava U.K., Operations Research for Management, Wiley Eastern, 1994.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Laboratory:\n\n\n</font></b>
+
+1. Measurement of angle using Sine Center / Sine bar / bevel protractor\n\n\n
+
+2. Measurement of alignment using Autocollimator / Roller set\n\n\n
+
+3. Measurement of cutting tool forces using\n\n\n
+
+a. Lathe tool Dynamometer\n\n\n
+
+b. Drill tool Dynamometer.\n\n\n
+
+4. Measurement of Screw Threads Parameters using Two wire or Three-wire method.\n\n\n
+
+5. Measurements of Surface roughness, Using Tally Surf/ Mechanical Comparator\n\n\n
+
+6. Measurement of gear tooth profile using gear tooth Vernier/ Gear tooth micrometer\n\n\n
+
+7. Calibration of Micrometer using slip gauges 8. Measurement using Optical Flats\n\n\n
+
+    </string>
+
+
+    <string name="mesem6sub3">Design Of Machine Elements</string>
+    <string name="DOME">\n\n\n
+
+        <b><font fgcolor='#F700FF'> Objectives: </font> </b>\n\n\n
+
+This course seeks to provide an introduction to the design of machine elements commonly encountered in mechanical engineering practice, through\n\n\n
+
+1. A strong background in mechanics of materials based failure criteria underpinning the safety-critical design of machine components\n\n\n
+
+2. An understanding of the origins, nature and applicability of empirical design principles, based on safety considerations\n\n\n
+
+3. An overview of codes, standards and design guidelines for different elements\n\n\n
+
+4. An appreciation of parameter optimization and design iteration\n\n\n
+
+5. An appreciation of the relationships between component level design and overall machine system design and performance Course Contents:\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1 </font></b>\n\n\nIntroduction to design: Steps in design process,
+
+design factors, practical considerations in design, selection of materials, strength of mechanical elements, impact load, shock load, fatigue loading, effects of surface, size, temperature and stress concentration, consideration of creep and thermal stress in design. (Lectures8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n Design of shafts: stresses in shafts, design of static
+
+loads, combined stresses, reversed bending and steady loads, design of shafts based on deflection and strength, critical speed of shafts. Analysis and design of sliding and rolling contact bearings, (Lectures10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 </font></b>\n\n\nRiveted joint: Stresses in riveted joint, design of riveted joints with central and eccentric loads, boiler and tank joints, structural joints.
+
+Bolt Joints: Stresses in bolt joint, design of bolt joints with central and eccentric loads.
+
+Welded joints: types of welded joints, stresses, design of welded joints subjected to axial, torsional and bending loads, welds subjected to fluctuating loads. (Lectures8)\n\n\n
+
+        <b><font fgcolor='#F700FF'> Module: 4 </font></b>\n\n\nDesign of Clutches: Friction clutches, uniform wear and uniform pressure assumptions, centrifugal clutches.
+
+Brakes: Design of internal expansion elements, assumptions, design of external contraction elements, band type brakes. (Lectures6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n Design of transmission elements: spur, helical, bevel and worm gears;
+
+Springs: stresses in helical springs, deflection of helical compression and tension springs, springs subjected to fatigue loading, concentric and helical torsion spring, critical frequency of springs, leaf springs, and design of automotive leaf springs. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+Upon completion of this course, students will get an overview of the design methodologies employed for the design of various machine components.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Data books allowed for Examination:\n\n\n</font>
+        </b>
+
+1. Mahadevan &amp; Balaveera Reddy: Design Data Hand Book\n\n\n
+
+2. Dr. Linghaigh &amp; Prof. Narayana Iyengar, Vol. 1 &amp; 2 : Design Data Hand Book\n\n\n
+
+3. P.S.G. Tech: Design Data Hand Book\n\n\n
+
+        <b><font fgcolor='#F700FF'> Text Books:</font></b>\n\n\n
+
+1. Shigley, J.E. and Mischke, C.R., Mechanical Engineering Design, Fifth Edition, McGraw-Hill International; 1989.\n\n\n
+
+2. Deutschman, D., Michels, W.J. and Wilson, C.E., Machine Design Theory and Practice, Macmillan, 1992.\n\n\n
+
+3. Juvinal, R.C., Fundamentals of Machine Component Design, John Wiley, 1994.\n\n\n
+
+4. Spottes, M.F., Design of Machine elements, Prentice-Hall India, 1994.\n\n\n
+
+5. R. L. Norton, Mechanical Design - An Integrated Approach, Prentice Hall, 1998\n\n\n
+
+        <b><font fgcolor='#F700FF'>Laboratory:\n\n\n</font></b>
+
+
+1. To study the design procedure of Knuckle &amp; Cotter joint. 2. Design of shafts subjected to torsion, bending moment and combined bending and torsion.\n\n\n
+
+3. Design of flat and square key\n\n\n
+
+4. Design and drawing of riveted joints\n\n\n
+
+5. Design and drawing of screw jack\n\n\n
+
+6. Journal Bearing Test Rig\n\n\n
+    </string>
+
+<string name="mesem6sub4">Automation In Manufacturing</string>
+<string name="AIM">\n\n\n
+    <b><font fgcolor='#F700FF'>Objectives:</font>
+    </b>
+    /n/n/n
+
+1. To understand the importance of automation in the of field machine tool based manufacturing/n/n/n
+
+2. To get the knowledge of various elements of manufacturing automation - CAD/CAM, sensors, pneumatics, hydraulics and CNC/n/n/n
+
+3. To understand the basics of product design and the role of manufacturing automation/n/n/n
+
+    <b><font fgcolor='#F700FF'>Course Contents:</font></b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n Introduction: Why automation, Current trends, CAD, CAM, CIM; Rigid automation: Part handling, Machine tools. Flexible automation: Computer control of Machine Tools and Machining Centers, NC and NC part programming, CNC-Adaptive Control, Automated Material handling. Assembly, Flexible fixturing. (Lectures12)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n Computer Aided Design: Fundamentals of CAD - Hardware in CAD-Computer Graphics Software and Data Base, Geometric modeling for downstream applications and analysis methods; Computer Aided Manufacturing: CNC technology, PLC, Micro-controllers, CNC-Adaptive Control. (Lectures12)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n Low cost automation: Mechanical &amp; Electro mechanical Systems, Pneumatics and Hydraulics, Illustrative Examples and case studies. (Lectures8)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4 </font></b>\n\n\nIntroduction to Modeling and Simulation: Product design, process route modeling, Optimization techniques, Case studies &amp; industrial applications. (Lectures8)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+Upon completion of this course, the students will get a comprehensive picture of computer based automation of manufacturing operations\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Mikell P. Groover, Automation, Production Systems, and Computer-integrated Manufacturing, prenticeHall\n\n\n
+
+2. Serope Kalpakjian and Steven R. Schmid, Manufacturing - Engineering and Technology,7th edition, Pearson\n\n\n
+
+3. YoramKoren, Computer control of manufacturing system, 1stedition\n\n\n
+
+4. Ibrahim Zeid, CAD/CAM : Theory &amp; Practice, 2ndedition.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Practical: At-least 10 experiment should be performed.\n\n\n</font></b>
+
+
+1. Case study on automated system of any industry.\n\n\n
+
+2. Practice programming on manual part program.\n\n\n
+
+3. Practice programming on APT.\n\n\n
+
+4. Demonstration on robot.\n\n\n
+
+5. Performance on robot.\n\n\n
+
+6. Demonstration on CNC lathe.\n\n\n
+
+7. Performance on CNC lathe.\n\n\n
+
+8. Performance and simulation with CNC lathe software.\n\n\n
+
+9. Demonstration on CNC milling.\n\n\n
+
+10. Performance on CNC milling.\n\n\n
+
+11. Performance and simulation with CNC milling software.\n\n\n
+
+12. Case study on computer aided process planning\n\n\n
+
+13. Case study on part coding and group technology\n\n\n
+
+14. Case study on computer aided quality control\n\n\n
+
+15. Case study on flexible manufacturing system\n\n\n
+</string>
+
+    <string name="mesem7sub1">Induction Program</string>
+<string name="IP">
+
+    <b>Induction program (mandatory) Induction program for students to be offered right at the start of the first year.</b>
+
+    <b>3 weeks duration</b>
+
+~Physical activity\n\n\n
+
+~Creative Arts\n\n\n
+
+~Universal Human Values\n\n\n
+
+~Literary Proficiency Modules\n\n\n
+
+~Lectures by Eminent People\n\n\n
+
+~Visits to local Areas\n\n\n
+
+~Familiarization to Dept./Branch &amp;Innovations\n\n\n
+</string>
+
+    <string name="mesem7sub2">Internal Combustion Engines</string>
+    <string name="ICE">
+
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+1. To familiarize with the terminology associated with IC engines.\n\n\n
+
+2. To understand the basics of IC engines.\n\n\n 3. To understand combustion, and various parameters and
+
+variables affecting it in various types of IC engines.\n\n\n 4. To learn about various systems used in IC engines and the type of IC engine required for various applications\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:1 </font></b>\n\n\nBasics of IC Engines, Engine components and classification: Two strokes, four stroke (SI and CI) engines, engines parts, engines working principle and valve timing diagram. Ideal cycles and Fuel-air cycles. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n Engine performance-test: purpose and types, measurement of power, Engine system &amp; performance parameters evaluation. (Lectures 4)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 </font></b>Combustion in SI and CI engines: Stages of combustion in Sl engines, abnormal combustion and knocking in Sl engines, factors affecting knocking, effects of knocking, control of knocking, combustion chambers for SI engines, Stages of combustion in Cl engines, detonation in C.I. engines, factors affecting detonation, controlling detonation, combustion chamber for SI and Cl engine. (Lectures 7)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4 </font></b>\n\n\nFuel supply systems in SI and Cl engines, carburetors, Port fuel injection, Direct injection and Common rail injection. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5 </font></b>\n\n\nIgnition system: Battery and magneto ignition system, spark plug, firing order, quality, quantity &amp; hit and miss governing. Lubrication system and Cooling system: Lubrication of engine components, Lubrication system - wet sump and dry sump, crankcase ventilation, Types of cooling systems - liquid and air cooled, comparison of liquid and air cooled systems. (Lectures 7)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 6</font></b>\n\n\n Measurement and Testing of IC engines: Measurement of indicated power, brake power, fuel consumption and emission, Measurement of friction power by Willan\'s Line Method and Morse Test, calculation of brake thermal efficiency, brake power and brake specific fuel consumption of IC Engines, variable compression ratio engines, heat balance sheet of IC Engines. Engine Emission and their control: Air pollution due to IC engines, constituent and types of emission HC, CO and NOx emission, catalytic convertor. Advanced IC Engine concepts. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 7 </font></b>Super charging, engine lubrication and cooling.
+
+(Lectures 4)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Obert E. F, "Internal Combustion Engines and Air Pollution", Harper and Row Publication Inc. NY, 1973.\n\n\n
+
+2. Heisler H, "Advanced Engine Technology", Edward Arnold, 1995.\n\n\n
+
+3. Heywood J. B, "Internal Combustion Engine Fundamentals", McGraw Hill Book Co. NY, 1989\n\n\n
+
+4. Heldt P. M, "High Speed Combustion Engines", Oxford &amp; IBH publishing Co. India, 1985.\n\n\n
+
+5. Stockel M W, Stockel T S and Johanson C, "Auto Fundamentals", The Goodheart, Wilcox Co.\n\n\n
+
+6. Inc., Illinois, 1996. Course Outcomes: Students who have done this course will have a good idea of the basics of IC engines and how different parameters influence the operational characteristics of IC Engines\n\n\n
+
+        <b><font fgcolor='#F700FF'>Laboratory:</font></b>\n\n\n
+
+1. To study the cross-sectional view of I.C. engine.\n\n\n
+
+2. Determination of the calorific value of a given fuel and its flash &amp; fire points.\n\n\n
+
+3. To study the actual valve timing diagram of 4-stroke engine.\n\n\n
+
+4. To prepare the heat balance sheet by conducting performance test on a single cylinder 4-stroke diesel engine.\n\n\n
+
+5. To prepare the heat balance sheet by conducting performance test on a single cylinder 4-stroke petrol engine.\n\n\n
+
+6. Performance evaluation of multi cylinder Diesel Engine.\n\n\n
+
+7. Conduct the Morse test on a multi cylinder petrol engine and find out the friction power.\n\n\n
+    </string>
+
+
+    <string name="mesem7sub3">Project-1</string>
+    <string name="Project">Project-1</string>
+
+    <string name="mesem7sub4">Summer Entreprerneurship-III</string>
+    <string name="EP">Summer Entreprerneurship-III</string>
+
+    <string name="mesem7elesub1">Refrigeration And Air Conditioning</string>
+    <string name="RAC">\n\n\n
+
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+1. To familiarize with the terminology associated with refrigeration systems and air conditioning\n\n\n
+
+2. To understand basic refrigeration processes\n\n\n
+
+3. To understand the basics of psychometric and practice of applied psychometrics\n\n\n
+
+4. To acquire the skills required to model, analyses and design different refrigeration as well as air conditioning processes and components.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Content:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1 </font></b>\n\n\n Air refrigeration system: Refrigeration machine, heat pump, coefficient of performance, ideal refrigeration cycle, Bell Coleman, refrigeration cycle, open and closed systems, application of air-refrigeration in air-crafts. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:2</font></b>\n\n\n Various compression systems: Simple vapour compression refrigeration cycle, merits and Refrigerants demerits of this system over air refrigeration system, factors affecting the performance of a vapour compression refrigeration system, sub cooling and superheating of vapour, wet and dry compression, multistage vapour compression system, intercooler, flash chamber, accumulator and heat exchanger. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n Vapour absorption system: Simple and modified vapour absorption refrigeration system, Electrolux refrigerator, COP of heat operated refrigeration system. (Lectures 5)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n Special refrigeration system, absorption, cascade, vortex, thermoelectric and steam jet refrigeration system. (Lectures 4) \n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n Refrigerants: classification and nomenclature of refrigerants, primary and secondary refrigerants, properties of some common refrigerants, physical, chemical and thermodynamics properties, selection of refrigerants, leakage of refrigerants and methods of detection.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:6</font></b>\n\n\n Psychometry: Properties of air vapour mixture, wet bulb, dew point &amp; dry bulb temperatures, humidity, specific humidity, humidity ratio, degree of saturation, relative humidity, total heat psychometric relation, psychometric charts and its uses, psychometric processes evaporative cooling. (Lectures 5)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 7 </font></b>\n\n\nAir conditioning: General principle and requirement
+
+for comfort and air conditioning, thermodynamics of human body, estimation of heating and cooling loads, capacity of cooling coils, humidification and dehumidification unit and conditioner, central air conditioner, year around air condition, humidity and temperature control, industrial application of air conditioning system (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 8 </font></b>\n\n\nConcept of enthalpy potential - Air washers, Cooling
+
+towers, Evaporative condensers, Cooling and dehumidifying coils. (Lectures 4) Course Outcomes: A student who has done the course will have a good understanding of the working principles of refrigeration and air-conditioning systems. Note: Refrigeration Data Books are permitted for examination.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Gosney, W.B, Principles of Refrigeration, Cambridge University Press, 1982.\n\n\n
+
+2. Stoecker, W.F. and Jones, J.W., Refrigeration and Air conditioning, Tata McGraw Hill, 1986.\n\n\n
+
+3. Arora, C.P., Refrigeration and Air conditioning, Tata McGraw Hill, 2nd Edition, 2000.\n\n\n
+
+4. Kuehn, T.H., Ramsey, J.W. and Threlkeld, J.L., Thermal Environmental Engineering, 3rd Edition, Prentice Hall, 1998.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+1. Determination of the COP of a vapour compression system.\n\n\n
+
+2. Determination of the COP of vapour absorption apparatus.\n\n\n
+
+3. Determination of the COP of a heat pump.\n\n\n
+
+4. To find the performance parameter of cooling tower.\n\n\n
+
+5. To study various components of room air conditioner and determine its performance for different psychometric condition.\n\n\n
+
+6. Determination of COP of an Electrolux refrigerator.\n\n\n
+
+7. To study the compressor and throttling valve used in refrigerator.\n\n\n
+
+    </string>
+
+    <string name="mesem7ele2">Computer Aided Design</string>
+    <string name="cad">
+        \n\n\n
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+To provide an overview of how computers can be utilized in mechanical component design Contents:\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1 </font></b>\n\n\nFundamentals of Computer Graphics- Product cycle, sequential and concurrent engineering, Computer Aided Design, CAD system architecture, computer graphics, Coordinate systems, 2D and 3D transformations, viewing transformation. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\nGeometric Modeling- representation of curves, Hermite curves, Bezier curves, B-spline curves, rational curves, Techniques of surface modelling, surface patch, Coons and bicubic patches, Bezier and B-spline surfaces, Solid modelling techniques, CSG and B-rep. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n Visual realism-hidden line-surface-solid removal algorithms, shading, colouring, computer animation. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4 </font></b>\n\n\n Assembly of parts-assembly modelling, interferences of positions and orientation, tolerance analysis, mass property calculations, mechanism simulation and interference checking CAD standards- Graphical Kernel System (GKS), standards for vexchange images, Open Graphics Library (OpenGL), Data exchange standards- IGES, STEP, CALS etc., Communication standards. (Lectures 12)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n Upon completion of this course, the
+
+students can use computer and CAD software for modelling mechanical components\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+1. Ibrahim Zeid, Mastering CAD CAM, Tata McGraw Hill Publishing Co.2007.\n\n\n
+
+2. C. McMohan and J. Browne, CAD/CAM Principles, II edition, Pearson Education, 1999.\n\n\n
+
+3. W. M. Neumann and R.F. Sproul, Principles of Computer Grahics, McGraw Hill, 1989.\n\n\n
+
+4. D. Hearn and M.P. Baker, Computer Graphics, Prentice Hall Inc., 1992.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+1. Initiating the Graphics Package; Setting the paper size, space; setting the limits, units; use of snap and grid commands.\n\n\n
+
+2. Drawing of primitives (Line, arc, circle, ellipse, triangle etc.)\n\n\n
+
+3. Drawing a flange.\n\n\n
+
+4. Drawing a bushing assembly.\n\n\n\
+
+5. Dimensioning the drawing and adding text.\n\n\n
+
+6. Setting the layers and application of layers.\n\n\n
+
+7. Isometric and Orthographic projections.\n\n\n
+
+8. Viewing in three dimensions.\n\n\n
+
+9. Removal of hidden lines - Shading and Rendering.\n\n\n
+
+    </string>
+
+    <string name="mesem7elesub3">Finite Element Analysis</string>
+    <string name="FEA">\n\n\n
+
+        <b><font fgcolor='#F700FF'> Objectives:</font></b>\n\n\n
+
+1. To illustrate the principle of mathematical modeling of engineering problems\n\n\n
+
+2. To introduce the basics and application of Finite Element Method\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n Historical Background, Mathematical modeling of field problems in engineering, governing equations, discrete and continuous models, boundary and initial value problems, Weighted Residual Methods, Variational formulation of boundary value problems, Ritz technique, Basic concept of Finite Element Method. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n One dimensional second order equation,
+
+discretization, linear and higher order elements, derivation of shape functions, Stiffness matrix and force vectors, assembly of elemental matrices, solution of problems from solid mechanics and heat transfer, longitudinal vibration and mode shapes, fourth order beam equation, transverse deflections and naturalfrequencies. (Lectures 12)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 </font></b>\n\n\nTwo dimensional equations, variational formulation,
+
+finite element formulation, triangular elements- shape functions, elemental matrices and RHS vectors; application to thermal problems, torsion of non-circular shafts, quadrilateral and higher order elements. Plane stresses and plane strain problems, body forces and thermal loads, plate and shell elements. (Lectures 12)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b> Natural coordinate systems, isoparametric
+
+elements and shape functions, numerical integration and application to plane stress problems, matrix solution techniques, solution of dynamic problems, introduction to FE software. (Lectures 8) Course Outcomes: Upon completion of the course, students will understand the FEM formulation and its application to simple structural and thermal problems\n\n\n
+
+        <b><font fgcolor='#F700FF'>  Text Books:</font></b>\n\n\n
+
+
+1. Reddy J.N., An Introduction to Finite Element Method, 3rd ed., Tata McGraw Hill, 2005.\n\n\n
+
+2. Seshu P., Text Book of Finite Element Analysis, Prentice Hall, New Delhi, 2007.\n\n\n
+
+3. Rao S.S., The Finite Element Method in Engineering, 3rded., Butterworth Heinemann, 2004.\n\n\n
+
+4. Chandraputla &amp; Belegundu, Introduction to Finite Elements in Engineering, 3rd ed., Prentice Hall, 1990.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+Use these software for experiments: ANSYS, SIMULIA, ABAQUS, MATLAB etc.\n\n\n
+
+1. Force and stress analysis using link elements in Trusses, cables etc.\n\n\n
+
+2. Stress and deflection analysis in beams with different support conditions.\n\n\n
+
+3. Stress analysis of flat plates and simple shells.\n\n\n
+
+4. Stress analysis of axi-symmetric components.\n\n\n
+
+5. Thermal stress and heat transfer analysis of plate.\n\n\n
+
+6. Thermal stress analysis of cylindrical shells.\n\n\n
+
+7. Vibration analysis of spring-mass systems.\n\n\n
+
+8. Model analysis of beams\n\n\n
+    </string>
+
+    <string name="mesem7elesub4">AutoMobile Engineering</string>
+    <string name="Auto">\n\n\n
+
+        <b><font fgcolor='#F700FF'>  Objectives:</font></b>\n\n\n
+
+        <b>To understand the construction and working principle of various parts of an automobile</b>\n\n\n
+
+        <b>Contents:</b>\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1 </font></b>\n\n\nTypes of automobiles, vehicle construction and layouts, Car body Style, chassis, frame and body, vehicle aerodynamics, IC engines-components, function and materials, variable valve timing (VVT), Front engine front wheel drive, Front engine Rear wheel drive, foure wheel drive. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2 </font></b>\n\n\nEngine auxiliary systems, electronic injection for SI and CI engines, unit injector system, rotary distributor type and common rail direct injection system, transistor based coil ignition &amp; capacitive discharge ignition systems, turbo chargers (WGT, VGT), engine emission control by 3-way catalytic converter system, Emission norms (Euro &amp; BS). (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3 </font></b>\n\n\nTransmission systems, clutch types, cone clutch, Single plate, multi plate, diaphragm spring &amp; centrifugal clutch, electromagnetic clutch &amp; construction, gear boxes- manual and automatic gear shift mechanisms, over drive principles, transfer box, Transaxles, flywheel, torque converter, propeller shaft, slip joints, universal joints, differential and rear axle, Hotchkiss drive and Torque tube drive. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module:4 </font></b>\n\n\nSteering geometry and types of steering gear box, power steering, types of front axle, types of suspension systems, constructional details &amp; characteristics of Leaf spring, pneumatic and hydraulic braking systems, antilock braking system (ABS), electronic brake force distribution (EBD) and traction control. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n Caster, Camber, King pin inclination Toe in Toe out, Full Floating, three quarter floating &amp;semi Floating rear axles. (Lectures 5)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 6 </font></b>\n\n\nAlternative energy sources, natural gas, LPG, biodiesel, bio-ethanol, gasohol and hydrogen fuels in automobiles, modifications needed, performance, combustion &amp; emission characteristics of alternative fuels in Sl and CI engines, Electric and Hybrid vehicles, application of Fuel Cells. (Lectures 7)\n\n\n
+
+        <b><font fgcolor='#F700FF'> Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, students will understand the function of each automobile component and also have a clear idea about the overall vehicle performance.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text books:</font></b>\n\n\n
+
+1. Kirpal Singh, Automobile Engineering, 7th ed., Standard Publishers, New Delhi, 1997.\n\n\n
+
+2. Jain K.K. and Asthana R.B., Automobile Engineering, Tata McGraw Hill, New Delhi, 2002.\n\n\n
+
+3. Heitner J., Automotive Mechanics, 2nd ed., East-West Press, 1999.\n\n\n
+
+4. Heisler H., Advanced Engine Technology, SAE International Publ., USA, 1998.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Practical:</font></b>\n\n\n
+
+1. To study and prepare report on the constructional details, working principles and operation of the Automotive Clutches.\n\n\n
+
+2. To study and prepare report on the constructional details, working principles and operation of the Automotive Transmission systems.\n\n\n
+
+3. To study and prepare report on the constructional details, working principles and operation of the Automotive Drive Lines &amp; Differentials.\n\n\n
+
+4. To study and prepare report on the constructional details, working principles and operation of the Multi-cylinder: Diesel and Petrol Engines.\n\n\n
+
+5. To study and prepare report on the constructional details, working principles and operation of the Fuels supply systems.\n\n\n
+
+6. To study and prepare report on the constructional details, working principles and operation of the Engine cooling &amp; lubricating Systems.\n\n\n
+
+7. To study and prepare report on the constructional details, working principles and operation of the Automotive Suspension Systems.\n\n\n
+
+8. To study and prepare report on the constructional details, working principles and operation of the Automotive Steering Systems.\n\n\n
+
+        9. To study and prepare report on the constructional details, working principles and operation of the Automotive Brake systems.\n\n\n
+    </string>
+
+    <string name="mesem8sub1">Open Elective-III</string>
+<string name="OE3">
+    \n\n\n
+    <b><font fgcolor='#F700FF'>CHOOSE ANY ONE SUBJECT:</font></b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>Computational Fluid Dynamics:</font></b>\n\n\n
+
+Pre-requisite: Heat Transfer and Numerical Analysis Techniques.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Objective:</font></b>\n\n\n To introduce the CFD techniques and tools for modelling, simulating and analysing practical engineering problems with hands on experience using commercial software packages used in industry.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Outcome: </font></b>\n\n\nStudents are able to understand the use of different CFD techniques and tools for modelling, simulation and analysis of complex engineering problems.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction: Philosophy of Computational Fluid Dynamics, Computational Fluid Dynamics as a research tool, Computational Fluid Dynamics as a design tool, the impact of Computational Fluid Dynamics on automobile and engine applications, Industrial manufacturing applications, environmental engineering applications. (Lectures 9)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Governing equations of Computational Fluid Dynamics: Models of the flow, the substantial derivative, divergence of velocity, continuity equation, momentum equation, energy equation, Physical boundary conditions. (Lectures8)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Partial differential equations: General method of determining the classification of partial differential equations, The impact of different equation on Computational Fluid Dynamics: Hyperbolic equations, Parabolic equations and Elliptic equations. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Basic aspects of Discretization: Introduction to finite differences, Difference equations, Explicit and implicit approaches. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 5</font></b>\n\n\n
+
+Grids with appropriate transformation: General transformation of the equations, Matrices and Jacobians, Stretched (compressed) grids. (Lectures 5)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 6</font></b>\n\n\n
+
+Some Simple Computational Fluid Dynamics Techniques: Lax-Wendroff Technique, Mac Cormack\'s Technique, Relaxation Technique, Pressure Correction Technique, etc.
+
+(Lectures 8)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text/Reference Books:</font></b>\n\n\n
+
+John D. Anderson, Jr. "Computational Fluid Dynamics", McGraw-Hill, Inc.\n\n\n
+
+Date, A. W., "Introduction to Computational Fluid Dynamics", Cambridge University Press, 2005.\n\n\n
+
+Sengupta, T. P. "Fundamental of Computational Fluid Dynamics", Orient Longman, Hyderabad, India, 2004.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Safety Management:</font></b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>   Objectives:</font></b>\n\n\n This course is directed towards creating safety awareness, identifying hazards and mitigation of accidents along with introduction of legal requirements and following up action.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Outcome: </font></b>\n\n\nAfter reading the course an engineer may develop confidence of over safe operations.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Need, Modern safety concepts, OSHA norms. (Lectures 3)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Safety Management function, Cost analysis of accidents, system safety analysis. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Hazards identification and control. Pressure hazard, fire hazard and Electrical hazard. (Lectures 12)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Hazard in construction industry, Hazard due to acceleration and fall, Mechanical hazard, Hazard due to heat and temperature. (Lectures 11)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Safe practices rules, Personal protective equipment. (Lectures 4)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 6</font></b>\n\n\n Ergonomics. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text/Reference Books:</font></b>\n\n\n
+
+Safety Management - John V. Grimaldi &amp; Rollin H Simmands.\n\n\n
+
+•Ergonomics at work - Osborne, D. J, John wiley &amp; Sons.s
+
+Industrial safety Handbook - Handey, W, Mcgraw Hill.\n\n\n
+
+•Designer\'s Guide to OSHA - Mcgraw Hill.\n\n\n
+
+•Handbook of occupational safety and Health - Johnwiley &amp; Sons.
+
+Industrial  Accident Prevention - Heinrich, Hetal, Mcgraw Hill.\n\n\n
+
+    <b><font fgcolor='#F700FF'>  Non-Conventional Manufacturing:</font></b>\n\n\n
+
+    <b>Objective: To understand how the material removal by using various energy and to know how the new materials and complex parts are produced with high accuracy by using new technology.</b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction: Historical background of non-conventional machining processes, Classification, Basic fundamentals of various process and related comparison. (Lectures 4)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Mechanical Machining Process: Principle and working and applications of mechanical machining processes such as ultrasonic machining, water jet cutting(Lectures 7)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Thermal and Chemical Machining Process: Principle and working and applications of thermal and chemical machining processes such as electro-discharge machining, electro-chemical machining. (Lectures 7)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Non-conventional welding process: Principle and working and application of non-conventional welding processes such as laser beam welding, electron beam welding, ultrasonic welding, plasma arc welding. explosive welding, cladding under water welding, metallising. (Lectures 10)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Non-conventional forming process: Principle, working and applications of high energy forming processes such as explosive forming, electro-magnetic forming, electro-discharge forming, water hammer forming, explosive compaction. (Lectures 10)\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 6</font></b>\n\n\n
+
+Introduction to Micro Manufacturing: Micro manufacturing fundamentals, significance, application of NCMPs for micro manufacturing, Micro to Nano finishing processing information. (Lectures 4)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text Books/ References Books:</font></b>
+    \n\n\n
+
+•C. Pandey and H.S. Shah, Modern Machining Processes, Tata Mcgraw-Hill Publishing Co. Ltd, New Delhi, 1980.\n\n\n
+
+•Ghosh and A.K. Mallik, Manufacturing Science, 2nd edition, Affiliated East West Press, New Delhi.\n\n\n
+
+•F. Benedict, Nontraditional Manufacturing Processes, Marcel Dekker Inc., New York (ISBN 0-8247-7352-7), 1987.\n\n\n
+
+•K. Jain, Advanced Machining Processes, Allied Publishers, 2009.
+
+A. Mc Geough, Micromachining of Engineering Materials, Taylor &amp; Francis, 2001.\n\n\n
+
+<b>Outcome: Students will be able to understand the
+
+    fundamentals of various non-conventional machining processes and their influence on performance and their applications.</b>
+
+</string>
+
+    <string name="mesem8sub2">Open Elective-IV</string>
+    <string name="OE32">
+    \n\n\n
+    <b><font fgcolor='#F700FF'>CHOOSE ANY ONE SUBJECT:</font></b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>Computational Fluid Dynamics:</font></b>\n\n\n
+
+Pre-requisite: Heat Transfer and Numerical Analysis Techniques.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Objective:</font></b>\n\n\n To introduce the CFD techniques and tools for modelling, simulating and analysing practical engineering problems with hands on experience using commercial software packages used in industry.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Outcome: </font></b>\n\n\nStudents are able to understand the use of different CFD techniques and tools for modelling, simulation and analysis of complex engineering problems.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction: Philosophy of Computational Fluid Dynamics, Computational Fluid Dynamics as a research tool, Computational Fluid Dynamics as a design tool, the impact of Computational Fluid Dynamics on automobile and engine applications, Industrial manufacturing applications, environmental engineering applications. (Lectures 9)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Governing equations of Computational Fluid Dynamics: Models of the flow, the substantial derivative, divergence of velocity, continuity equation, momentum equation, energy equation, Physical boundary conditions. (Lectures8)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Partial differential equations: General method of determining the classification of partial differential equations, The impact of different equation on Computational Fluid Dynamics: Hyperbolic equations, Parabolic equations and Elliptic equations. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Basic aspects of Discretization: Introduction to finite differences, Difference equations, Explicit and implicit approaches. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 5</font></b>\n\n\n
+
+Grids with appropriate transformation: General transformation of the equations, Matrices and Jacobians, Stretched (compressed) grids. (Lectures 5)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 6</font></b>\n\n\n
+
+Some Simple Computational Fluid Dynamics Techniques: Lax-Wendroff Technique, Mac Cormack\'s Technique, Relaxation Technique, Pressure Correction Technique, etc.
+
+(Lectures 8)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text/Reference Books:</font></b>\n\n\n
+
+John D. Anderson, Jr. "Computational Fluid Dynamics", McGraw-Hill, Inc.\n\n\n
+
+Date, A. W., "Introduction to Computational Fluid Dynamics", Cambridge University Press, 2005.\n\n\n
+
+Sengupta, T. P. "Fundamental of Computational Fluid Dynamics", Orient Longman, Hyderabad, India, 2004.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Safety Management:</font></b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>   Objectives:</font></b>\n\n\n This course is directed towards creating safety awareness, identifying hazards and mitigation of accidents along with introduction of legal requirements and following up action.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Outcome: </font></b>\n\n\nAfter reading the course an engineer may develop confidence of over safe operations.\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Need, Modern safety concepts, OSHA norms. (Lectures 3)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Safety Management function, Cost analysis of accidents, system safety analysis. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Hazards identification and control. Pressure hazard, fire hazard and Electrical hazard. (Lectures 12)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Hazard in construction industry, Hazard due to acceleration and fall, Mechanical hazard, Hazard due to heat and temperature. (Lectures 11)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Safe practices rules, Personal protective equipment. (Lectures 4)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 6</font></b>\n\n\n Ergonomics. (Lectures 6)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text/Reference Books:</font></b>\n\n\n
+
+Safety Management - John V. Grimaldi &amp; Rollin H Simmands.\n\n\n
+
+•Ergonomics at work - Osborne, D. J, John wiley &amp; Sons.s
+
+Industrial safety Handbook - Handey, W, Mcgraw Hill.\n\n\n
+
+•Designer\'s Guide to OSHA - Mcgraw Hill.\n\n\n
+
+•Handbook of occupational safety and Health - Johnwiley &amp; Sons.
+
+Industrial  Accident Prevention - Heinrich, Hetal, Mcgraw Hill.\n\n\n
+
+    <b><font fgcolor='#F700FF'>  Non-Conventional Manufacturing:</font></b>\n\n\n
+
+    <b>Objective: To understand how the material removal by using various energy and to know how the new materials and complex parts are produced with high accuracy by using new technology.</b>\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction: Historical background of non-conventional machining processes, Classification, Basic fundamentals of various process and related comparison. (Lectures 4)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Mechanical Machining Process: Principle and working and applications of mechanical machining processes such as ultrasonic machining, water jet cutting(Lectures 7)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Thermal and Chemical Machining Process: Principle and working and applications of thermal and chemical machining processes such as electro-discharge machining, electro-chemical machining. (Lectures 7)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Non-conventional welding process: Principle and working and application of non-conventional welding processes such as laser beam welding, electron beam welding, ultrasonic welding, plasma arc welding. explosive welding, cladding under water welding, metallising. (Lectures 10)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Non-conventional forming process: Principle, working and applications of high energy forming processes such as explosive forming, electro-magnetic forming, electro-discharge forming, water hammer forming, explosive compaction. (Lectures 10)\n\n\n
+
+    <b><font fgcolor='#F700FF'> Module: 6</font></b>\n\n\n
+
+Introduction to Micro Manufacturing: Micro manufacturing fundamentals, significance, application of NCMPs for micro manufacturing, Micro to Nano finishing processing information. (Lectures 4)\n\n\n
+
+    <b><font fgcolor='#F700FF'>Text Books/ References Books:</font></b>
+    \n\n\n
+
+•C. Pandey and H.S. Shah, Modern Machining Processes, Tata Mcgraw-Hill Publishing Co. Ltd, New Delhi, 1980.\n\n\n
+
+•Ghosh and A.K. Mallik, Manufacturing Science, 2nd edition, Affiliated East West Press, New Delhi.\n\n\n
+
+•F. Benedict, Nontraditional Manufacturing Processes, Marcel Dekker Inc., New York (ISBN 0-8247-7352-7), 1987.\n\n\n
+
+•K. Jain, Advanced Machining Processes, Allied Publishers, 2009.
+
+A. Mc Geough, Micromachining of Engineering Materials, Taylor &amp; Francis, 2001.\n\n\n
+
+<b>Outcome: Students will be able to understand the
+
+    fundamentals of various non-conventional machining processes and their influence on performance and their applications.</b>
+
+</string>
+
+    <string name="mesem8sub3">Program Elective-V</string>
+    <string name="PEV">\n\n\n
+        <b><font fgcolor='#F700FF'>CHOOSE ANY ONE SUBJECT:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Principles of Management</font></b>\n\n\n
+
+<b>Objectives:</b>\n\n\n
+
+        <b>To understand the principles of management and their application to the functioning of an organization\n\n\n</b>
+
+
+        <b>TContents:</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Definition of management, science or art, manager vs entrepreneur, Types of managers-managerial roles and skills; Evolution of management- scientific, human relations, system and contingency approaches; Types of Business Organizations, sole proprietorship, partnership, company, public and private enterprises; Organization culture and environment, Current trends and issues in management. (Lectures 8)\n\n\n
+
+
+<b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Nature and purpose of Planning, types of Planning, objectives, setting objectives, policies, Strategic Management, Planning Tools and Techniques, Decision making steps &amp; processes. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Nature and purpose of Organizing, formal and informal organization, organization structure, types, line and staff authority, departmentalization, delegation of authority, centralization and decentralization, job design, human resource management, HR planning, Recruitment selection, Training &amp; Development, Performance Management, Career planning and Management. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Directing, individual and group behavior, motivation, motivation theories, motivational techniques, job satisfaction, job enrichment, leadership, types &amp; theories of leadership, effective communication. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Controlling, system and process of controlling, budgetary and non-budgetary control techniques, use of computers and IT in management control, productivity problems and management, control and performance, direct and preventive control, reporting. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, the students will get a clear understanding of management functions in an organization</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+•Robins S.P. and Couiter M., Management, Prentice Hall India, 10th, 2009.\n\n\n
+
+*Stoner JAF, Freeman RE and Gilbert DR, Management, 6th, Pearson Education, 2004.\n\n\n
+
+•Tripathy PC &amp; Reddy PN, Principles of Management, Tata McGraw Hill, 1999.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Design of Transmission Systems</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+<b>To learn about the design procedures for mechanical power transmission components</b>\n\n\n
+
+        <b>Contents:</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Flexible transmission elements- design of flat belts &amp; pulleys, selection of V-belts and pulleys, selection of hoisting wire ropes and pulleys, design of chains and sprockets. (Lectures 4)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Gear transmission- speed ratios and number of teeth, force analysis, tooth stresses, dynamic effects, fatigue strength, factor safety, gear materials; Design of straight tooth spur gear and parallel axis helical gears based on strength and wear considerations, pressure angle in the normal and transverse plane; equivalent number of teeth and forces for helical gears.
+
+(Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Straight bevel gear-tooth terminology, tooth forces and stresses, equivalent number of teeth. Estimating the dimensions of a pair of straight bevel gears; Worm gear, merits &amp; demerits, terminology, thermal capacity, materials, forces &amp; stresses, efficiency, estimating the size of worm gear pair. Cross helical gears, terminology, helix angles, sizing of a pair of helical gears. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Gear box-geometric progression, standard step ratio; Ray diagram, kinematics layout; Design of sliding mesh gear box- Design of multi-seed gear box for machine tool applications; constant mesh gear box, speed reducer unit, Variable speed gear box; Fluid couplings, Torque converters for automotive applications. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Cam design, types: pressure angle and undercutting base
+
+circle determination, forces and surface stresses; Design of plate clutches, axial clutches, cone clutches, internal expanding rim clutches; Electromagnetic clutches; Band and Block brakes, external shoe brakes, internal expanding shoe brake. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+<b>Upon completing this course the students will be able to design transmission systems for engines and machines.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+Shigley J., Mischke C., Budynas R. and Nisbett K., Mechanical Engineering Design, 8th Tata McGraw Hill, 2010.\n\n\n
+
+Jindal U.C., Machine Design: Design of Transmission System, Dorling Kindersley, 2010.\n\n\n
+
+*Maitra and Prasad L., Handbook of Mechanical Design, 2nd ed., Tata McGraw Hill, 2001.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Total Quality Management:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+        <b>To facilitate the understanding of total quality management principles and processes</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction, need for quality, evolution of quality; Definitions of quality, product quality and service quality; Basic concepts of TQM, TQM framework, contributions of Deming, Juran and Crosby. Barriers to TQM; Quality statements, customer focus, customer orientation &amp; satisfaction, customer complaints, customer retention; costs toquality (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+TQM principles; leadership, strategic quality planning; Quality councils-employee involvement, motivation; Empowerment, Team and Teamwork; Quality circles, recognition and reward, performance appraisal; Continuous process improvement, PDCE cycle, 5S, Kaizen; Supplier partnership, Partnering, Supplier rating &amp; selection. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+The seven traditional tools of quality, New management tools; Six sigma- concepts, methodology, applications to manufacturing, service sector including IT, Bench marking process; FMEA-stages, types. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+TQM tools and techniques, control charts, process capability, concepts of six sigma, Quality Function Development (QFD), Taguchi quality loss function; TPM-concepts, improvement needs, performance measures. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Quality systems, need for ISO 9000, ISO 9001-9008; Quality system- elements, documentation; Quality auditing, QS 9000, ISO 14000- concepts, requirements and benefits; TQM implementation in manufacturing and service sectors. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, the students will be able to use the tools and techniques of TQM in manufacturing and service sectors.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+*Bester field D.H. et al., Total quality Management, 3rd, Pearson Education Asia, 2006.\n\n\n
+
+Evans J.R. and Lindsay W.M., The management and Control of Quality, 8th, first Indian edition, Cengage Learning, 2012.\n\n\n
+
+Janakiraman B. and Gopal R.K., Total Quality Management, Prentice Hall India, 2006.\n\n\n
+
+Suganthi L. and Samuel A., Total Quality Management, Prentice Hall India, 2006.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Energy Conservation and Management</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+        <b>To understand the energy data from industries and carry out energy audit for energy savings</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction to energy &amp; power scenario of world, National Energy consumption data, environmental aspects associated with energy utilization; Energy Auditing- need, types, methodology and barriers, role of energy managers, instruments of energyauditing. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Components of EB billing, HT and LT supply, transformers, cable sizing, Concept of capacitors, power factor improvement, harmonics; Electric motors-motor efficiency computation, energy efficient motors; Illumination- Lux, Lumens, types of lighting, efficacy, LED lighting and scope of energy conservation in lighting. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Thermal systems, Boilers, Furnaces and Thermic Fluid heaters- efficiency computation and energy conservation measures; Steam distribution and usage, steam traps, condensate recovery, flash steam utilization; Insulation &amp; Refractories. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Energy Conservation in major utilities, pumps, fans, blowers, compressed, air systems, Refrigeration &amp; Air Conditioning system, Cooling Towers, DG sets. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Energy Economics-discount period, payback period, internal rate of return, net present value; Life Cycle costing-ESCO concept. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, the students will be able to perform of energy auditing for the energy consumption of industries.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+Witte L.C., Schmidt P.S. and Brown D.R., Industrial Energy Management and Utilization, Hemisphere Publ., Washington, 1988.\n\n\n
+
+Callaghn P.W., Design and Management for Energy Conservation, Pergamon Press, Oxford,\n\n\n
+
+Murphy W.R. and McKay G., Energy Management, Butterworths, London, 1987.\n\n\n
+
+Energy Manager Training Manual, Bureau of Energy Efficiency (BEE) under Ministry of Power, GOI, 2004 (available at energymanagertraining.com).\n\n\n
+
+        <b><font fgcolor='#F700FF'>Gas Dynamics and Jet Propulsion</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+<b>•To understand the features of compressible isentropic flows and irreversibility like shocks.</b>\n\n\n
+
+<b>•To provide a basic knowledge of jet and rocket propulsion technologies.</b>\n\n\n
+
+ <b><font fgcolor='#F700FF'>Contents: </font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Compressible flow, definition, Mach waves and Mach cone, stagnation states, Mass, momentum and energy equations of one-dimensional flow, Isentropic flow through variable area ducts, nozzle s and diffusers, subsonic and supersonic flow I variable area ducts, choked flow, Area-Mach number relations for isentropic flow.
+
+(Lectures 12)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Non-isentropic flow in constant area ducts, Rayleigh and Fanno flows, Normal shock relations, oblique shock relations, isentropic and shock tables. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Theory of jet propulsion, thrust equation, thrust power and propulsive efficiency, Operating principle and cycle analysis of ramjet, turbojet, turbofan and turboprop engines. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Types of rocket engines, propellants &amp; feeding systems, ignition and combustion, theory of rocket propulsion, performance study, staging, terminal and characteristic velocity, space flights. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'> Course Outcomes:</font></b>\n\n\n
+
+<b>Upon completion of this course, the students will be able to apply gas dynamics principles to jet and space propulsion
+
+    systems.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+Ahmed El-Sayed, Aircraft Prpoulsion and Gas Turbine Engines, CRC Press, 2008.\n\n\n
+
+•S. Mukunda, "Understanding Aerospace Chemical Propulsion", Interline Publishing, 2004.\n\n\n
+
+•Hill P. and Peterson C., Mechanics &amp; Thermodynamics of Propulsion, Addison Wesley,\n\n\n
+
+•Zucrow N. J., Aircraft and Missile Propulsion, Vol.1&amp; II, John Wiley,\n\n\n
+
+Sutton G.P., Rocket Propulsion Elements, John Wiley, New York, 1986.\n\n\n
+    </string>
+
+
+    <string name="mesem8sub4">Program Elective-VI</string>
+    <string name="PEV2">\n\n\n
+        <b><font fgcolor='#F700FF'>CHOOSE ANY ONE SUBJECT:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Principles of Management</font></b>\n\n\n
+
+<b>Objectives:</b>\n\n\n
+
+        <b>To understand the principles of management and their application to the functioning of an organization\n\n\n</b>
+
+
+        <b>TContents:</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Definition of management, science or art, manager vs entrepreneur, Types of managers-managerial roles and skills; Evolution of management- scientific, human relations, system and contingency approaches; Types of Business Organizations, sole proprietorship, partnership, company, public and private enterprises; Organization culture and environment, Current trends and issues in management. (Lectures 8)\n\n\n
+
+
+<b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Nature and purpose of Planning, types of Planning, objectives, setting objectives, policies, Strategic Management, Planning Tools and Techniques, Decision making steps &amp; processes. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Nature and purpose of Organizing, formal and informal organization, organization structure, types, line and staff authority, departmentalization, delegation of authority, centralization and decentralization, job design, human resource management, HR planning, Recruitment selection, Training &amp; Development, Performance Management, Career planning and Management. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Directing, individual and group behavior, motivation, motivation theories, motivational techniques, job satisfaction, job enrichment, leadership, types &amp; theories of leadership, effective communication. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Controlling, system and process of controlling, budgetary and non-budgetary control techniques, use of computers and IT in management control, productivity problems and management, control and performance, direct and preventive control, reporting. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, the students will get a clear understanding of management functions in an organization</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+•Robins S.P. and Couiter M., Management, Prentice Hall India, 10th, 2009.\n\n\n
+
+*Stoner JAF, Freeman RE and Gilbert DR, Management, 6th, Pearson Education, 2004.\n\n\n
+
+•Tripathy PC &amp; Reddy PN, Principles of Management, Tata McGraw Hill, 1999.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Design of Transmission Systems</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+<b>To learn about the design procedures for mechanical power transmission components</b>\n\n\n
+
+        <b>Contents:</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Flexible transmission elements- design of flat belts &amp; pulleys, selection of V-belts and pulleys, selection of hoisting wire ropes and pulleys, design of chains and sprockets. (Lectures 4)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Gear transmission- speed ratios and number of teeth, force analysis, tooth stresses, dynamic effects, fatigue strength, factor safety, gear materials; Design of straight tooth spur gear and parallel axis helical gears based on strength and wear considerations, pressure angle in the normal and transverse plane; equivalent number of teeth and forces for helical gears.
+
+(Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Straight bevel gear-tooth terminology, tooth forces and stresses, equivalent number of teeth. Estimating the dimensions of a pair of straight bevel gears; Worm gear, merits &amp; demerits, terminology, thermal capacity, materials, forces &amp; stresses, efficiency, estimating the size of worm gear pair. Cross helical gears, terminology, helix angles, sizing of a pair of helical gears. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Gear box-geometric progression, standard step ratio; Ray diagram, kinematics layout; Design of sliding mesh gear box- Design of multi-seed gear box for machine tool applications; constant mesh gear box, speed reducer unit, Variable speed gear box; Fluid couplings, Torque converters for automotive applications. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Cam design, types: pressure angle and undercutting base
+
+circle determination, forces and surface stresses; Design of plate clutches, axial clutches, cone clutches, internal expanding rim clutches; Electromagnetic clutches; Band and Block brakes, external shoe brakes, internal expanding shoe brake. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+<b>Upon completing this course the students will be able to design transmission systems for engines and machines.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+Shigley J., Mischke C., Budynas R. and Nisbett K., Mechanical Engineering Design, 8th Tata McGraw Hill, 2010.\n\n\n
+
+Jindal U.C., Machine Design: Design of Transmission System, Dorling Kindersley, 2010.\n\n\n
+
+*Maitra and Prasad L., Handbook of Mechanical Design, 2nd ed., Tata McGraw Hill, 2001.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Total Quality Management:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+        <b>To facilitate the understanding of total quality management principles and processes</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction, need for quality, evolution of quality; Definitions of quality, product quality and service quality; Basic concepts of TQM, TQM framework, contributions of Deming, Juran and Crosby. Barriers to TQM; Quality statements, customer focus, customer orientation &amp; satisfaction, customer complaints, customer retention; costs toquality (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+TQM principles; leadership, strategic quality planning; Quality councils-employee involvement, motivation; Empowerment, Team and Teamwork; Quality circles, recognition and reward, performance appraisal; Continuous process improvement, PDCE cycle, 5S, Kaizen; Supplier partnership, Partnering, Supplier rating &amp; selection. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+The seven traditional tools of quality, New management tools; Six sigma- concepts, methodology, applications to manufacturing, service sector including IT, Bench marking process; FMEA-stages, types. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+TQM tools and techniques, control charts, process capability, concepts of six sigma, Quality Function Development (QFD), Taguchi quality loss function; TPM-concepts, improvement needs, performance measures. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Quality systems, need for ISO 9000, ISO 9001-9008; Quality system- elements, documentation; Quality auditing, QS 9000, ISO 14000- concepts, requirements and benefits; TQM implementation in manufacturing and service sectors. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, the students will be able to use the tools and techniques of TQM in manufacturing and service sectors.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+*Bester field D.H. et al., Total quality Management, 3rd, Pearson Education Asia, 2006.\n\n\n
+
+Evans J.R. and Lindsay W.M., The management and Control of Quality, 8th, first Indian edition, Cengage Learning, 2012.\n\n\n
+
+Janakiraman B. and Gopal R.K., Total Quality Management, Prentice Hall India, 2006.\n\n\n
+
+Suganthi L. and Samuel A., Total Quality Management, Prentice Hall India, 2006.\n\n\n
+
+        <b><font fgcolor='#F700FF'>Energy Conservation and Management</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+        <b>To understand the energy data from industries and carry out energy audit for energy savings</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Contents:</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Introduction to energy &amp; power scenario of world, National Energy consumption data, environmental aspects associated with energy utilization; Energy Auditing- need, types, methodology and barriers, role of energy managers, instruments of energyauditing. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Components of EB billing, HT and LT supply, transformers, cable sizing, Concept of capacitors, power factor improvement, harmonics; Electric motors-motor efficiency computation, energy efficient motors; Illumination- Lux, Lumens, types of lighting, efficacy, LED lighting and scope of energy conservation in lighting. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Thermal systems, Boilers, Furnaces and Thermic Fluid heaters- efficiency computation and energy conservation measures; Steam distribution and usage, steam traps, condensate recovery, flash steam utilization; Insulation &amp; Refractories. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Energy Conservation in major utilities, pumps, fans, blowers, compressed, air systems, Refrigeration &amp; Air Conditioning system, Cooling Towers, DG sets. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 5</font></b>\n\n\n
+
+Energy Economics-discount period, payback period, internal rate of return, net present value; Life Cycle costing-ESCO concept. (Lectures 6)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Course Outcomes:</font></b>\n\n\n
+
+        <b>Upon completion of this course, the students will be able to perform of energy auditing for the energy consumption of industries.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+Witte L.C., Schmidt P.S. and Brown D.R., Industrial Energy Management and Utilization, Hemisphere Publ., Washington, 1988.\n\n\n
+
+Callaghn P.W., Design and Management for Energy Conservation, Pergamon Press, Oxford,\n\n\n
+
+Murphy W.R. and McKay G., Energy Management, Butterworths, London, 1987.\n\n\n
+
+Energy Manager Training Manual, Bureau of Energy Efficiency (BEE) under Ministry of Power, GOI, 2004 (available at energymanagertraining.com).\n\n\n
+
+        <b><font fgcolor='#F700FF'>Gas Dynamics and Jet Propulsion</font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Objectives:</font></b>\n\n\n
+
+<b>•To understand the features of compressible isentropic flows and irreversibility like shocks.</b>\n\n\n
+
+<b>•To provide a basic knowledge of jet and rocket propulsion technologies.</b>\n\n\n
+
+ <b><font fgcolor='#F700FF'>Contents: </font></b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 1</font></b>\n\n\n
+
+Compressible flow, definition, Mach waves and Mach cone, stagnation states, Mass, momentum and energy equations of one-dimensional flow, Isentropic flow through variable area ducts, nozzle s and diffusers, subsonic and supersonic flow I variable area ducts, choked flow, Area-Mach number relations for isentropic flow.
+
+(Lectures 12)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 2</font></b>\n\n\n
+
+Non-isentropic flow in constant area ducts, Rayleigh and Fanno flows, Normal shock relations, oblique shock relations, isentropic and shock tables. (Lectures 8)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 3</font></b>\n\n\n
+
+Theory of jet propulsion, thrust equation, thrust power and propulsive efficiency, Operating principle and cycle analysis of ramjet, turbojet, turbofan and turboprop engines. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'>Module: 4</font></b>\n\n\n
+
+Types of rocket engines, propellants &amp; feeding systems, ignition and combustion, theory of rocket propulsion, performance study, staging, terminal and characteristic velocity, space flights. (Lectures 10)\n\n\n
+
+        <b><font fgcolor='#F700FF'> Course Outcomes:</font></b>\n\n\n
+
+<b>Upon completion of this course, the students will be able to apply gas dynamics principles to jet and space propulsion
+
+    systems.</b>\n\n\n
+
+        <b><font fgcolor='#F700FF'>Text Books:</font></b>\n\n\n
+
+Ahmed El-Sayed, Aircraft Prpoulsion and Gas Turbine Engines, CRC Press, 2008.\n\n\n
+
+•S. Mukunda, "Understanding Aerospace Chemical Propulsion", Interline Publishing, 2004.\n\n\n
+
+•Hill P. and Peterson C., Mechanics &amp; Thermodynamics of Propulsion, Addison Wesley,\n\n\n
+
+•Zucrow N. J., Aircraft and Missile Propulsion, Vol.1&amp; II, John Wiley,\n\n\n
+
+Sutton G.P., Rocket Propulsion Elements, John Wiley, New York, 1986.\n\n\n
+    </string>
+
+    <string name="mesem8sub5">Project=II</string>
+<string name="PII">
+    Project
+</string>
+
+</resources>

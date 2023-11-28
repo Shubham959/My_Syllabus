@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:backgroundTint="#EBFFFFFF"
+    android:backgroundTintMode="multiply"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/round_button"
+        android:backgroundTint="@color/w"
+        android:backgroundTintMode="add"
+        android:hapticFeedbackEnabled="true"
+        android:text="@string/text"
+        android:textColor="#039BE5"
+        android:textColorHighlight="#FFFFFF"
+        android:textColorLink="#FFFFFF"
+        android:textSize="@dimen/_20ssp"
+        app:iconGravity="start"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/editTextText"
+        app:layout_constraintStart_toStartOf="@+id/editTextText"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.757"
+        tools:ignore="VisualLintButtonSize" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="@dimen/_170sdp"
+        android:text="@string/text2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#4CAF50"
+        android:textColorHighlight="#FF0202"
+        android:textDirection="firstStrongLtr"
+        android:textSize="@dimen/_30ssp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.101"
+        tools:ignore="TextSizeCheck,TextContrastCheck" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="@dimen/_54sdp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/hint"
+        android:inputType="text"
+        android:textColorHint="#4CAF50"
+        android:textSize="@dimen/_34sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.714"
+        tools:ignore="TextContrastCheck,VisualLintTextFieldSize" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
